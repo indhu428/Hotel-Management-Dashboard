@@ -1,0 +1,501 @@
+Booking_ID,Customer_ID,Customer_Name,Hotel_Name,City,Room_Type,Check_In_Date,Check_Out_Date,Stay_Duration,No_of_Guests,Room_Price,Total_Revenue,Payment_Mode,Booking_Channel,Customer_Type,Rating,Booking_Status,Revenue_Category,Season,Customer_Age
+BK0001,CUS0001,Customer_1,City Inn,Bangalore,Single,2025-03-03,2025-03-04,1,4,10418,10418,Card,Travel Agent,Couple,3.4,Completed,Medium,Summer,59
+BK0002,CUS0002,Customer_2,Grand Palace Hotel,Delhi,Single,2025-08-10,2025-08-16,6,1,12380,74280,Cash,Travel Agent,Couple,3.4,Completed,Low,Summer,27
+BK0003,CUS0003,Customer_3,Royal Stay,Chennai,Suite,2025-01-29,2025-02-05,7,2,10599,74193,Online,Website,Family,4.1,Completed,Low,Summer,45
+BK0004,CUS0004,Customer_4,Ocean View Resort,Bangalore,Suite,2025-11-04,2025-11-05,1,1,11717,11717,UPI,Website,Business,4.0,Completed,Medium,Monsoon,57
+BK0005,CUS0005,Customer_5,City Inn,Bangalore,Deluxe,2025-08-19,2025-08-27,8,4,3271,26168,UPI,Travel Agent,Solo,3.2,Cancelled,High,Summer,64
+BK0006,CUS0006,Customer_6,Ocean View Resort,Mumbai,Deluxe,2025-08-27,2025-09-04,8,2,7761,62088,UPI,Travel Agent,Couple,3.4,Completed,Medium,Monsoon,45
+BK0007,CUS0007,Customer_7,Royal Stay,Mumbai,Suite,2025-04-27,2025-05-05,8,1,14068,112544,Online,Booking App,Business,3.1,Cancelled,Medium,Summer,20
+BK0008,CUS0008,Customer_8,Grand Palace Hotel,Chennai,Suite,2025-02-01,2025-02-11,10,1,9579,95790,UPI,Website,Business,4.1,Completed,Medium,Winter,66
+BK0009,CUS0009,Customer_9,Green Park Hotel,Hyderabad,Single,2025-04-19,2025-04-29,10,3,10611,106110,Cash,Website,Business,3.8,Cancelled,Medium,Winter,68
+BK0010,CUS0010,Customer_10,Grand Palace Hotel,Mumbai,Double,2025-08-06,2025-08-08,2,2,10083,20166,Cash,Website,Business,4.4,Cancelled,High,Winter,40
+BK0011,CUS0011,Customer_11,Ocean View Resort,Mumbai,Single,2025-02-08,2025-02-13,5,3,14828,74140,UPI,Website,Solo,3.7,Pending,High,Monsoon,58
+BK0012,CUS0012,Customer_12,Royal Stay,Chennai,Single,2025-04-13,2025-04-22,9,1,9990,89910,Cash,Website,Family,3.7,Cancelled,Low,Monsoon,53
+BK0013,CUS0013,Customer_13,Ocean View Resort,Chennai,Suite,2025-12-14,2025-12-23,9,2,5946,53514,Cash,Travel Agent,Business,3.9,Completed,High,Monsoon,44
+BK0014,CUS0014,Customer_14,City Inn,Bangalore,Double,2025-06-28,2025-07-06,8,1,5516,44128,UPI,Booking App,Solo,4.5,Pending,Medium,Monsoon,69
+BK0015,CUS0015,Customer_15,Green Park Hotel,Bangalore,Deluxe,2025-09-21,2025-09-25,4,1,14818,59272,UPI,Travel Agent,Family,4.9,Pending,Low,Winter,67
+BK0016,CUS0016,Customer_16,Grand Palace Hotel,Mumbai,Suite,2025-12-12,2025-12-14,2,2,10277,20554,Online,Travel Agent,Business,3.6,Cancelled,Medium,Summer,38
+BK0017,CUS0017,Customer_17,Royal Stay,Bangalore,Deluxe,2025-11-18,2025-11-25,7,4,14082,98574,UPI,Website,Solo,4.2,Pending,Medium,Summer,51
+BK0018,CUS0018,Customer_18,Royal Stay,Delhi,Suite,2025-05-28,2025-05-30,2,3,4361,8722,Cash,Website,Family,3.9,Pending,Low,Winter,56
+BK0019,CUS0019,Customer_19,Ocean View Resort,Chennai,Deluxe,2025-06-04,2025-06-11,7,3,3613,25291,UPI,Website,Business,3.6,Completed,High,Winter,26
+BK0020,CUS0020,Customer_20,Grand Palace Hotel,Chennai,Double,2025-08-24,2025-09-02,9,3,6783,61047,UPI,Travel Agent,Couple,4.3,Pending,Low,Winter,65
+BK0021,CUS0021,Customer_21,Ocean View Resort,Chennai,Single,2025-07-19,2025-07-29,10,3,10079,100790,Online,Booking App,Couple,3.6,Completed,Medium,Winter,29
+BK0022,CUS0022,Customer_22,City Inn,Mumbai,Single,2025-12-24,2026-01-02,9,3,4014,36126,Online,Travel Agent,Family,3.7,Pending,High,Monsoon,23
+BK0023,CUS0023,Customer_23,City Inn,Mumbai,Deluxe,2025-03-29,2025-03-31,2,2,3844,7688,Cash,Travel Agent,Business,4.7,Completed,Medium,Winter,19
+BK0024,CUS0024,Customer_24,Royal Stay,Bangalore,Deluxe,2025-06-08,2025-06-15,7,4,9507,66549,Card,Booking App,Family,4.0,Cancelled,High,Monsoon,38
+BK0025,CUS0025,Customer_25,Royal Stay,Chennai,Single,2025-01-23,2025-01-24,1,2,10345,10345,Card,Travel Agent,Family,4.6,Pending,High,Summer,58
+BK0026,CUS0026,Customer_26,Royal Stay,Hyderabad,Single,2025-07-25,2025-07-29,4,2,5556,22224,Cash,Travel Agent,Family,3.4,Completed,Medium,Summer,59
+BK0027,CUS0027,Customer_27,Ocean View Resort,Chennai,Suite,2025-12-20,2025-12-26,6,1,12624,75744,UPI,Travel Agent,Solo,3.3,Completed,Low,Summer,37
+BK0028,CUS0028,Customer_28,Green Park Hotel,Hyderabad,Suite,2025-03-02,2025-03-12,10,5,5130,51300,Online,Booking App,Solo,4.9,Cancelled,High,Monsoon,64
+BK0029,CUS0029,Customer_29,Green Park Hotel,Mumbai,Suite,2025-05-20,2025-05-25,5,3,7789,38945,Online,Website,Couple,4.1,Cancelled,Low,Monsoon,44
+BK0030,CUS0030,Customer_30,Green Park Hotel,Mumbai,Double,2025-07-09,2025-07-16,7,3,11136,77952,UPI,Website,Family,3.2,Cancelled,Medium,Winter,63
+BK0031,CUS0031,Customer_31,Green Park Hotel,Chennai,Deluxe,2025-11-15,2025-11-25,10,4,12889,128890,Card,Travel Agent,Business,3.7,Cancelled,Medium,Summer,38
+BK0032,CUS0032,Customer_32,Green Park Hotel,Delhi,Suite,2025-01-15,2025-01-19,4,2,3173,12692,Online,Travel Agent,Solo,4.6,Pending,Low,Monsoon,27
+BK0033,CUS0033,Customer_33,Ocean View Resort,Hyderabad,Single,2025-11-21,2025-11-24,3,4,5978,17934,Cash,Travel Agent,Business,3.4,Pending,Medium,Monsoon,70
+BK0034,CUS0034,Customer_34,Royal Stay,Mumbai,Suite,2025-01-04,2025-01-05,1,2,7817,7817,Cash,Booking App,Couple,4.3,Pending,Low,Summer,68
+BK0035,CUS0035,Customer_35,Grand Palace Hotel,Chennai,Double,2025-06-06,2025-06-13,7,5,5254,36778,Online,Booking App,Couple,4.3,Cancelled,Medium,Summer,52
+BK0036,CUS0036,Customer_36,City Inn,Bangalore,Suite,2025-12-12,2025-12-18,6,3,6930,41580,Cash,Booking App,Family,3.1,Pending,Medium,Monsoon,49
+BK0037,CUS0037,Customer_37,Royal Stay,Chennai,Double,2025-11-20,2025-11-27,7,2,6069,42483,Card,Booking App,Business,4.0,Completed,Low,Monsoon,21
+BK0038,CUS0038,Customer_38,City Inn,Mumbai,Single,2025-01-11,2025-01-15,4,3,11057,44228,Online,Website,Solo,4.4,Pending,Low,Summer,57
+BK0039,CUS0039,Customer_39,Green Park Hotel,Mumbai,Deluxe,2025-12-10,2025-12-14,4,1,14969,59876,Cash,Travel Agent,Family,3.0,Pending,Low,Monsoon,41
+BK0040,CUS0040,Customer_40,City Inn,Delhi,Double,2025-08-23,2025-08-31,8,4,3324,26592,Card,Travel Agent,Couple,3.3,Pending,Medium,Summer,66
+BK0041,CUS0041,Customer_41,Royal Stay,Mumbai,Deluxe,2025-11-25,2025-11-29,4,4,5519,22076,Cash,Website,Family,3.5,Cancelled,High,Monsoon,59
+BK0042,CUS0042,Customer_42,Green Park Hotel,Mumbai,Double,2025-08-30,2025-09-05,6,5,13547,81282,Cash,Booking App,Couple,3.5,Cancelled,Medium,Winter,25
+BK0043,CUS0043,Customer_43,Grand Palace Hotel,Hyderabad,Deluxe,2025-09-25,2025-09-30,5,5,11111,55555,UPI,Website,Solo,3.6,Pending,Medium,Monsoon,25
+BK0044,CUS0044,Customer_44,Royal Stay,Delhi,Double,2025-06-30,2025-07-05,5,2,3169,15845,Cash,Website,Family,4.3,Pending,Low,Monsoon,45
+BK0045,CUS0045,Customer_45,Green Park Hotel,Chennai,Double,2025-12-05,2025-12-13,8,5,7721,61768,Card,Website,Solo,4.0,Pending,Medium,Summer,63
+BK0046,CUS0046,Customer_46,Green Park Hotel,Delhi,Suite,2025-10-18,2025-10-22,4,2,14509,58036,Card,Travel Agent,Couple,4.3,Cancelled,Low,Winter,46
+BK0047,CUS0047,Customer_47,Royal Stay,Hyderabad,Deluxe,2025-04-12,2025-04-16,4,5,8918,35672,UPI,Website,Couple,4.4,Completed,Medium,Monsoon,19
+BK0048,CUS0048,Customer_48,Ocean View Resort,Hyderabad,Deluxe,2025-08-12,2025-08-21,9,1,5979,53811,Online,Booking App,Business,4.6,Completed,Low,Summer,46
+BK0049,CUS0049,Customer_49,Ocean View Resort,Mumbai,Deluxe,2025-02-23,2025-03-05,10,2,13638,136380,Cash,Website,Business,3.1,Cancelled,High,Monsoon,61
+BK0050,CUS0050,Customer_50,Grand Palace Hotel,Chennai,Double,2025-03-16,2025-03-17,1,4,14601,14601,UPI,Website,Solo,4.0,Pending,High,Monsoon,61
+BK0051,CUS0051,Customer_51,Green Park Hotel,Delhi,Double,2025-04-28,2025-04-29,1,3,9505,9505,UPI,Travel Agent,Family,4.6,Pending,Medium,Monsoon,34
+BK0052,CUS0052,Customer_52,Royal Stay,Hyderabad,Suite,2025-01-11,2025-01-14,3,5,2839,8517,Online,Booking App,Business,4.7,Completed,Low,Summer,32
+BK0053,CUS0053,Customer_53,Green Park Hotel,Bangalore,Double,2025-05-11,2025-05-13,2,2,5853,11706,Cash,Travel Agent,Solo,3.0,Completed,Medium,Winter,59
+BK0054,CUS0054,Customer_54,City Inn,Mumbai,Single,2025-10-27,2025-11-05,9,1,5768,51912,Online,Website,Couple,4.5,Pending,Low,Summer,36
+BK0055,CUS0055,Customer_55,Ocean View Resort,Delhi,Suite,2025-11-21,2025-11-30,9,4,14333,128997,Online,Booking App,Business,4.1,Completed,Low,Winter,41
+BK0056,CUS0056,Customer_56,Royal Stay,Delhi,Single,2025-01-24,2025-02-03,10,5,2659,26590,Online,Travel Agent,Solo,3.1,Completed,Medium,Summer,49
+BK0057,CUS0057,Customer_57,Ocean View Resort,Bangalore,Suite,2025-01-07,2025-01-11,4,1,3452,13808,Card,Travel Agent,Family,3.3,Pending,Medium,Monsoon,62
+BK0058,CUS0058,Customer_58,Ocean View Resort,Bangalore,Suite,2025-11-11,2025-11-16,5,5,6479,32395,Card,Booking App,Family,4.7,Cancelled,High,Summer,42
+BK0059,CUS0059,Customer_59,City Inn,Delhi,Deluxe,2025-03-13,2025-03-19,6,1,6396,38376,Cash,Website,Solo,4.4,Completed,Low,Summer,65
+BK0060,CUS0060,Customer_60,Green Park Hotel,Hyderabad,Suite,2025-08-17,2025-08-21,4,2,3297,13188,Online,Booking App,Solo,3.8,Pending,Medium,Winter,19
+BK0061,CUS0061,Customer_61,Green Park Hotel,Mumbai,Double,2025-11-05,2025-11-12,7,4,3567,24969,Card,Travel Agent,Couple,3.2,Completed,Medium,Monsoon,35
+BK0062,CUS0062,Customer_62,Royal Stay,Mumbai,Single,2025-05-07,2025-05-15,8,3,12303,98424,Cash,Travel Agent,Couple,3.6,Pending,Medium,Summer,40
+BK0063,CUS0063,Customer_63,Ocean View Resort,Mumbai,Single,2025-07-25,2025-07-31,6,4,10010,60060,UPI,Booking App,Couple,4.5,Cancelled,Medium,Summer,60
+BK0064,CUS0064,Customer_64,City Inn,Hyderabad,Deluxe,2025-05-18,2025-05-27,9,3,3120,28080,UPI,Booking App,Solo,3.1,Completed,High,Winter,44
+BK0065,CUS0065,Customer_65,City Inn,Hyderabad,Single,2025-05-04,2025-05-10,6,2,4572,27432,Card,Travel Agent,Business,4.5,Completed,High,Winter,25
+BK0066,CUS0066,Customer_66,Grand Palace Hotel,Chennai,Single,2025-05-27,2025-06-04,8,2,13870,110960,Card,Travel Agent,Couple,3.3,Cancelled,Medium,Winter,30
+BK0067,CUS0067,Customer_67,Green Park Hotel,Chennai,Suite,2025-11-23,2025-12-02,9,3,13083,117747,UPI,Travel Agent,Couple,4.6,Completed,Low,Monsoon,56
+BK0068,CUS0068,Customer_68,Green Park Hotel,Mumbai,Double,2025-04-23,2025-05-02,9,5,9274,83466,UPI,Booking App,Solo,4.6,Cancelled,High,Summer,18
+BK0069,CUS0069,Customer_69,Grand Palace Hotel,Bangalore,Single,2025-05-28,2025-06-04,7,1,8660,60620,UPI,Booking App,Couple,3.4,Cancelled,Medium,Summer,24
+BK0070,CUS0070,Customer_70,Grand Palace Hotel,Chennai,Suite,2025-01-27,2025-02-04,8,3,14596,116768,Online,Booking App,Business,3.0,Pending,Low,Monsoon,67
+BK0071,CUS0071,Customer_71,Ocean View Resort,Mumbai,Single,2025-01-16,2025-01-20,4,4,14111,56444,Online,Website,Business,3.4,Pending,Low,Monsoon,58
+BK0072,CUS0072,Customer_72,City Inn,Delhi,Suite,2025-02-18,2025-02-26,8,3,3590,28720,Card,Website,Family,3.5,Completed,Medium,Monsoon,45
+BK0073,CUS0073,Customer_73,Grand Palace Hotel,Mumbai,Single,2025-04-19,2025-04-23,4,1,7238,28952,UPI,Booking App,Family,4.0,Cancelled,High,Monsoon,25
+BK0074,CUS0074,Customer_74,Green Park Hotel,Delhi,Single,2025-06-02,2025-06-10,8,1,11741,93928,UPI,Travel Agent,Business,3.1,Completed,Low,Winter,67
+BK0075,CUS0075,Customer_75,Royal Stay,Delhi,Deluxe,2025-06-29,2025-07-01,2,2,12797,25594,UPI,Booking App,Couple,3.4,Cancelled,Low,Winter,43
+BK0076,CUS0076,Customer_76,Ocean View Resort,Mumbai,Deluxe,2025-02-16,2025-02-22,6,5,11563,69378,Card,Travel Agent,Couple,4.0,Completed,Medium,Monsoon,32
+BK0077,CUS0077,Customer_77,Ocean View Resort,Mumbai,Deluxe,2025-08-30,2025-09-05,6,3,7333,43998,Cash,Travel Agent,Family,3.0,Completed,Medium,Summer,31
+BK0078,CUS0078,Customer_78,Green Park Hotel,Delhi,Deluxe,2025-06-15,2025-06-21,6,5,5442,32652,Cash,Website,Business,3.6,Completed,Low,Monsoon,57
+BK0079,CUS0079,Customer_79,City Inn,Chennai,Single,2025-10-11,2025-10-13,2,1,2568,5136,Online,Website,Couple,3.1,Completed,Medium,Winter,49
+BK0080,CUS0080,Customer_80,City Inn,Chennai,Deluxe,2025-07-01,2025-07-11,10,3,3161,31610,UPI,Website,Business,4.7,Pending,Low,Winter,58
+BK0081,CUS0081,Customer_81,City Inn,Delhi,Suite,2025-08-08,2025-08-14,6,2,6562,39372,UPI,Booking App,Couple,4.6,Cancelled,Low,Monsoon,18
+BK0082,CUS0082,Customer_82,Royal Stay,Delhi,Deluxe,2025-12-04,2025-12-10,6,1,5833,34998,Card,Website,Couple,5.0,Pending,Medium,Monsoon,62
+BK0083,CUS0083,Customer_83,Green Park Hotel,Delhi,Double,2025-10-31,2025-11-08,8,2,13210,105680,UPI,Booking App,Family,3.2,Cancelled,High,Winter,32
+BK0084,CUS0084,Customer_84,Ocean View Resort,Delhi,Deluxe,2025-06-19,2025-06-26,7,5,12191,85337,UPI,Website,Couple,4.9,Completed,Medium,Monsoon,18
+BK0085,CUS0085,Customer_85,Green Park Hotel,Chennai,Deluxe,2025-09-21,2025-09-22,1,3,4374,4374,Cash,Booking App,Business,4.3,Cancelled,High,Winter,58
+BK0086,CUS0086,Customer_86,Green Park Hotel,Chennai,Deluxe,2025-04-05,2025-04-14,9,4,6058,54522,Card,Travel Agent,Family,3.8,Completed,Low,Winter,43
+BK0087,CUS0087,Customer_87,Ocean View Resort,Mumbai,Double,2025-04-09,2025-04-12,3,5,13812,41436,Cash,Travel Agent,Couple,4.3,Cancelled,High,Winter,18
+BK0088,CUS0088,Customer_88,Grand Palace Hotel,Delhi,Suite,2025-08-20,2025-08-25,5,3,6429,32145,Card,Website,Couple,4.1,Pending,Medium,Winter,37
+BK0089,CUS0089,Customer_89,City Inn,Mumbai,Suite,2025-09-01,2025-09-05,4,2,13642,54568,Cash,Booking App,Family,3.7,Pending,Medium,Winter,69
+BK0090,CUS0090,Customer_90,City Inn,Bangalore,Double,2025-10-04,2025-10-12,8,2,9867,78936,UPI,Website,Solo,3.6,Pending,Low,Monsoon,45
+BK0091,CUS0091,Customer_91,Grand Palace Hotel,Hyderabad,Single,2025-08-11,2025-08-19,8,2,4095,32760,Cash,Website,Couple,4.5,Pending,High,Monsoon,69
+BK0092,CUS0092,Customer_92,Green Park Hotel,Bangalore,Single,2025-08-21,2025-08-22,1,2,12019,12019,Online,Website,Solo,4.1,Cancelled,Medium,Monsoon,31
+BK0093,CUS0093,Customer_93,City Inn,Mumbai,Deluxe,2025-02-20,2025-03-02,10,4,6594,65940,Card,Travel Agent,Business,4.1,Cancelled,High,Summer,29
+BK0094,CUS0094,Customer_94,City Inn,Hyderabad,Single,2025-11-14,2025-11-21,7,2,3754,26278,Card,Website,Couple,4.0,Completed,Low,Summer,18
+BK0095,CUS0095,Customer_95,Grand Palace Hotel,Bangalore,Suite,2025-02-14,2025-02-17,3,3,13419,40257,Online,Travel Agent,Business,5.0,Completed,Low,Summer,66
+BK0096,CUS0096,Customer_96,City Inn,Hyderabad,Double,2025-01-26,2025-01-27,1,5,6881,6881,UPI,Booking App,Business,3.5,Cancelled,Low,Monsoon,28
+BK0097,CUS0097,Customer_97,City Inn,Hyderabad,Suite,2025-12-07,2025-12-09,2,1,10943,21886,Online,Website,Solo,3.3,Completed,Medium,Monsoon,23
+BK0098,CUS0098,Customer_98,City Inn,Bangalore,Suite,2025-10-06,2025-10-12,6,4,13001,78006,UPI,Booking App,Business,3.6,Cancelled,Medium,Monsoon,21
+BK0099,CUS0099,Customer_99,Royal Stay,Mumbai,Deluxe,2025-07-14,2025-07-22,8,4,14179,113432,Online,Website,Solo,4.0,Pending,High,Monsoon,59
+BK0100,CUS0100,Customer_100,Ocean View Resort,Bangalore,Deluxe,2025-06-27,2025-07-01,4,1,4821,19284,Online,Booking App,Family,4.3,Completed,Low,Monsoon,53
+BK0101,CUS0101,Customer_101,Green Park Hotel,Hyderabad,Suite,2025-04-29,2025-05-06,7,3,6051,42357,Online,Travel Agent,Business,4.5,Cancelled,High,Winter,42
+BK0102,CUS0102,Customer_102,Green Park Hotel,Mumbai,Suite,2025-02-05,2025-02-15,10,1,4860,48600,Cash,Booking App,Couple,4.5,Cancelled,High,Monsoon,40
+BK0103,CUS0103,Customer_103,Green Park Hotel,Chennai,Double,2025-09-25,2025-10-02,7,3,9442,66094,Online,Travel Agent,Family,3.8,Completed,Low,Winter,62
+BK0104,CUS0104,Customer_104,Green Park Hotel,Chennai,Single,2025-02-24,2025-03-06,10,2,4849,48490,Online,Website,Solo,4.2,Completed,Medium,Summer,52
+BK0105,CUS0105,Customer_105,Grand Palace Hotel,Bangalore,Single,2025-01-23,2025-02-01,9,2,5364,48276,Card,Website,Couple,4.0,Cancelled,Medium,Winter,36
+BK0106,CUS0106,Customer_106,Green Park Hotel,Hyderabad,Deluxe,2025-05-06,2025-05-11,5,5,7379,36895,Cash,Travel Agent,Business,3.1,Completed,High,Winter,50
+BK0107,CUS0107,Customer_107,City Inn,Chennai,Deluxe,2025-05-01,2025-05-11,10,1,12248,122480,Cash,Booking App,Couple,3.7,Cancelled,Low,Winter,63
+BK0108,CUS0108,Customer_108,Royal Stay,Chennai,Double,2025-09-13,2025-09-16,3,5,12748,38244,Online,Travel Agent,Solo,4.1,Pending,Low,Summer,53
+BK0109,CUS0109,Customer_109,Ocean View Resort,Mumbai,Deluxe,2025-06-03,2025-06-10,7,1,11511,80577,Online,Booking App,Solo,4.2,Completed,High,Winter,59
+BK0110,CUS0110,Customer_110,City Inn,Chennai,Single,2025-12-03,2025-12-10,7,5,4730,33110,Card,Booking App,Solo,4.5,Pending,High,Winter,53
+BK0111,CUS0111,Customer_111,Grand Palace Hotel,Delhi,Single,2025-04-02,2025-04-09,7,1,3767,26369,UPI,Travel Agent,Family,4.4,Cancelled,Low,Winter,22
+BK0112,CUS0112,Customer_112,Green Park Hotel,Delhi,Deluxe,2025-10-08,2025-10-15,7,5,7489,52423,UPI,Website,Business,3.9,Cancelled,High,Summer,40
+BK0113,CUS0113,Customer_113,Grand Palace Hotel,Mumbai,Deluxe,2025-02-18,2025-02-20,2,1,9006,18012,Cash,Booking App,Solo,4.2,Completed,High,Summer,26
+BK0114,CUS0114,Customer_114,City Inn,Hyderabad,Double,2025-11-10,2025-11-18,8,3,2581,20648,Cash,Travel Agent,Business,4.8,Pending,Low,Monsoon,70
+BK0115,CUS0115,Customer_115,Grand Palace Hotel,Hyderabad,Deluxe,2025-07-09,2025-07-16,7,5,11927,83489,UPI,Booking App,Couple,3.2,Pending,Low,Summer,23
+BK0116,CUS0116,Customer_116,Ocean View Resort,Delhi,Suite,2025-05-29,2025-06-08,10,5,11764,117640,Cash,Website,Family,3.8,Pending,High,Summer,43
+BK0117,CUS0117,Customer_117,Ocean View Resort,Hyderabad,Deluxe,2025-06-20,2025-06-26,6,1,9941,59646,UPI,Booking App,Family,3.8,Completed,Medium,Winter,62
+BK0118,CUS0118,Customer_118,Green Park Hotel,Hyderabad,Deluxe,2025-10-10,2025-10-17,7,5,13569,94983,Online,Website,Business,3.5,Completed,Low,Winter,64
+BK0119,CUS0119,Customer_119,Grand Palace Hotel,Delhi,Suite,2025-07-27,2025-07-30,3,1,4328,12984,Card,Travel Agent,Solo,3.9,Cancelled,High,Winter,56
+BK0120,CUS0120,Customer_120,Royal Stay,Chennai,Double,2025-07-23,2025-07-25,2,4,12665,25330,Cash,Travel Agent,Family,4.2,Cancelled,Low,Monsoon,70
+BK0121,CUS0121,Customer_121,Green Park Hotel,Bangalore,Double,2025-06-21,2025-06-22,1,1,8416,8416,Cash,Website,Solo,4.7,Cancelled,High,Summer,41
+BK0122,CUS0122,Customer_122,City Inn,Delhi,Deluxe,2025-09-01,2025-09-03,2,2,5185,10370,Cash,Booking App,Family,3.1,Cancelled,Low,Monsoon,28
+BK0123,CUS0123,Customer_123,Green Park Hotel,Mumbai,Suite,2025-03-31,2025-04-05,5,3,7070,35350,Cash,Travel Agent,Solo,4.8,Completed,High,Winter,33
+BK0124,CUS0124,Customer_124,Green Park Hotel,Hyderabad,Suite,2025-02-04,2025-02-08,4,4,7263,29052,Cash,Booking App,Couple,3.1,Pending,Low,Summer,42
+BK0125,CUS0125,Customer_125,Green Park Hotel,Hyderabad,Double,2025-05-10,2025-05-12,2,3,13850,27700,UPI,Booking App,Business,4.9,Completed,Medium,Monsoon,62
+BK0126,CUS0126,Customer_126,Grand Palace Hotel,Mumbai,Single,2025-08-02,2025-08-09,7,5,9177,64239,Online,Booking App,Couple,4.4,Cancelled,Low,Winter,69
+BK0127,CUS0127,Customer_127,Ocean View Resort,Bangalore,Single,2025-01-01,2025-01-10,9,1,4872,43848,Cash,Booking App,Solo,5.0,Completed,Medium,Summer,45
+BK0128,CUS0128,Customer_128,Grand Palace Hotel,Chennai,Single,2025-11-30,2025-12-07,7,2,4714,32998,Cash,Booking App,Solo,3.2,Completed,High,Winter,70
+BK0129,CUS0129,Customer_129,Royal Stay,Mumbai,Suite,2025-10-12,2025-10-22,10,4,3769,37690,UPI,Website,Solo,3.5,Pending,High,Winter,69
+BK0130,CUS0130,Customer_130,City Inn,Hyderabad,Double,2025-06-26,2025-07-06,10,3,2068,20680,Cash,Booking App,Solo,4.3,Cancelled,Low,Summer,22
+BK0131,CUS0131,Customer_131,City Inn,Delhi,Suite,2025-01-19,2025-01-21,2,2,8939,17878,UPI,Travel Agent,Solo,3.4,Completed,Low,Winter,27
+BK0132,CUS0132,Customer_132,Ocean View Resort,Mumbai,Double,2025-02-05,2025-02-10,5,2,12982,64910,Card,Website,Couple,4.7,Completed,Low,Summer,67
+BK0133,CUS0133,Customer_133,Ocean View Resort,Bangalore,Double,2025-01-16,2025-01-23,7,2,12085,84595,UPI,Website,Couple,3.2,Cancelled,High,Summer,18
+BK0134,CUS0134,Customer_134,Grand Palace Hotel,Bangalore,Deluxe,2025-05-10,2025-05-16,6,3,8799,52794,Card,Travel Agent,Family,4.3,Cancelled,High,Winter,33
+BK0135,CUS0135,Customer_135,Royal Stay,Delhi,Deluxe,2025-03-14,2025-03-24,10,1,4346,43460,Cash,Booking App,Business,3.5,Pending,High,Winter,69
+BK0136,CUS0136,Customer_136,Grand Palace Hotel,Mumbai,Deluxe,2025-10-01,2025-10-05,4,3,7743,30972,Online,Booking App,Solo,3.9,Cancelled,Medium,Summer,61
+BK0137,CUS0137,Customer_137,Green Park Hotel,Chennai,Double,2025-04-03,2025-04-05,2,1,12540,25080,Online,Booking App,Solo,4.0,Pending,Low,Summer,53
+BK0138,CUS0138,Customer_138,Ocean View Resort,Hyderabad,Deluxe,2025-02-16,2025-02-23,7,1,6489,45423,UPI,Website,Family,3.8,Completed,Medium,Summer,65
+BK0139,CUS0139,Customer_139,Ocean View Resort,Chennai,Double,2025-05-01,2025-05-06,5,1,7856,39280,Online,Website,Couple,4.4,Cancelled,Medium,Monsoon,55
+BK0140,CUS0140,Customer_140,Ocean View Resort,Delhi,Single,2025-01-04,2025-01-14,10,2,13655,136550,Card,Travel Agent,Couple,3.1,Pending,Medium,Monsoon,33
+BK0141,CUS0141,Customer_141,Green Park Hotel,Mumbai,Double,2025-01-05,2025-01-12,7,4,4760,33320,UPI,Booking App,Family,3.2,Pending,Medium,Monsoon,30
+BK0142,CUS0142,Customer_142,Green Park Hotel,Delhi,Suite,2025-04-23,2025-04-27,4,2,11155,44620,Card,Booking App,Solo,4.6,Completed,High,Monsoon,22
+BK0143,CUS0143,Customer_143,Green Park Hotel,Chennai,Suite,2025-09-09,2025-09-12,3,5,10546,31638,Card,Website,Family,3.7,Cancelled,Low,Monsoon,20
+BK0144,CUS0144,Customer_144,Grand Palace Hotel,Delhi,Double,2025-01-28,2025-02-02,5,5,13639,68195,UPI,Website,Business,4.0,Pending,Medium,Summer,58
+BK0145,CUS0145,Customer_145,Royal Stay,Delhi,Single,2025-12-23,2025-12-24,1,5,6815,6815,Online,Booking App,Couple,3.6,Completed,High,Monsoon,26
+BK0146,CUS0146,Customer_146,City Inn,Mumbai,Single,2025-05-14,2025-05-24,10,5,11461,114610,Card,Booking App,Business,4.6,Cancelled,Medium,Summer,62
+BK0147,CUS0147,Customer_147,Green Park Hotel,Bangalore,Deluxe,2025-06-20,2025-06-22,2,5,8942,17884,Card,Travel Agent,Solo,3.8,Cancelled,Medium,Summer,26
+BK0148,CUS0148,Customer_148,Ocean View Resort,Mumbai,Deluxe,2025-11-08,2025-11-10,2,5,3514,7028,Card,Website,Couple,3.8,Completed,High,Winter,37
+BK0149,CUS0149,Customer_149,Grand Palace Hotel,Delhi,Deluxe,2025-01-07,2025-01-14,7,5,14068,98476,Online,Travel Agent,Couple,4.1,Cancelled,Medium,Monsoon,19
+BK0150,CUS0150,Customer_150,City Inn,Bangalore,Suite,2025-03-27,2025-04-02,6,3,11591,69546,Cash,Booking App,Business,4.9,Cancelled,Medium,Winter,51
+BK0151,CUS0151,Customer_151,Ocean View Resort,Bangalore,Deluxe,2025-04-20,2025-04-25,5,3,6193,30965,Cash,Website,Business,4.5,Pending,Low,Monsoon,27
+BK0152,CUS0152,Customer_152,Royal Stay,Hyderabad,Suite,2025-05-25,2025-06-01,7,1,8551,59857,Cash,Booking App,Business,4.4,Pending,Medium,Summer,44
+BK0153,CUS0153,Customer_153,Grand Palace Hotel,Mumbai,Deluxe,2025-05-01,2025-05-11,10,2,9083,90830,Cash,Travel Agent,Business,3.4,Cancelled,Low,Winter,35
+BK0154,CUS0154,Customer_154,Royal Stay,Delhi,Deluxe,2025-11-13,2025-11-14,1,3,4869,4869,Card,Travel Agent,Couple,3.4,Pending,Medium,Winter,23
+BK0155,CUS0155,Customer_155,Ocean View Resort,Hyderabad,Suite,2025-01-10,2025-01-19,9,2,12796,115164,Online,Website,Solo,4.6,Pending,Low,Winter,29
+BK0156,CUS0156,Customer_156,Green Park Hotel,Delhi,Deluxe,2025-03-22,2025-03-27,5,5,7536,37680,Card,Booking App,Business,4.1,Completed,Low,Monsoon,53
+BK0157,CUS0157,Customer_157,City Inn,Delhi,Suite,2025-08-26,2025-08-27,1,4,4527,4527,UPI,Travel Agent,Family,4.3,Completed,Low,Winter,49
+BK0158,CUS0158,Customer_158,Grand Palace Hotel,Mumbai,Deluxe,2025-07-06,2025-07-15,9,5,2020,18180,Online,Booking App,Business,4.8,Cancelled,Medium,Winter,18
+BK0159,CUS0159,Customer_159,Royal Stay,Bangalore,Suite,2025-05-23,2025-05-28,5,4,11199,55995,Cash,Website,Business,4.9,Cancelled,Medium,Monsoon,58
+BK0160,CUS0160,Customer_160,Green Park Hotel,Chennai,Double,2025-11-30,2025-12-08,8,3,2666,21328,UPI,Travel Agent,Business,4.4,Pending,High,Summer,37
+BK0161,CUS0161,Customer_161,City Inn,Mumbai,Deluxe,2025-10-02,2025-10-06,4,3,4213,16852,Cash,Travel Agent,Business,4.3,Cancelled,Medium,Summer,58
+BK0162,CUS0162,Customer_162,City Inn,Mumbai,Deluxe,2025-11-30,2025-12-10,10,4,11166,111660,UPI,Booking App,Business,4.3,Completed,Low,Summer,20
+BK0163,CUS0163,Customer_163,Royal Stay,Delhi,Deluxe,2025-09-12,2025-09-17,5,4,5476,27380,Card,Website,Solo,3.7,Completed,Medium,Monsoon,24
+BK0164,CUS0164,Customer_164,City Inn,Delhi,Single,2025-06-20,2025-06-25,5,2,4636,23180,Card,Booking App,Solo,3.0,Cancelled,High,Winter,55
+BK0165,CUS0165,Customer_165,Royal Stay,Hyderabad,Deluxe,2025-05-09,2025-05-19,10,3,7183,71830,Card,Travel Agent,Business,3.8,Completed,Low,Summer,37
+BK0166,CUS0166,Customer_166,Ocean View Resort,Delhi,Deluxe,2025-01-26,2025-02-02,7,3,2680,18760,UPI,Booking App,Solo,4.1,Cancelled,Low,Winter,21
+BK0167,CUS0167,Customer_167,Ocean View Resort,Delhi,Single,2025-05-14,2025-05-18,4,3,7560,30240,Card,Booking App,Family,4.1,Pending,Medium,Summer,21
+BK0168,CUS0168,Customer_168,Ocean View Resort,Mumbai,Single,2025-01-03,2025-01-06,3,4,13094,39282,Card,Travel Agent,Couple,3.6,Cancelled,High,Monsoon,48
+BK0169,CUS0169,Customer_169,Royal Stay,Bangalore,Deluxe,2025-10-13,2025-10-22,9,2,2974,26766,UPI,Booking App,Solo,4.2,Cancelled,Medium,Winter,37
+BK0170,CUS0170,Customer_170,Royal Stay,Bangalore,Suite,2025-04-28,2025-05-01,3,1,10634,31902,Card,Booking App,Business,4.5,Completed,High,Winter,56
+BK0171,CUS0171,Customer_171,Grand Palace Hotel,Hyderabad,Double,2025-02-01,2025-02-05,4,2,8629,34516,Online,Travel Agent,Couple,4.7,Completed,Low,Monsoon,21
+BK0172,CUS0172,Customer_172,Grand Palace Hotel,Delhi,Deluxe,2025-04-07,2025-04-08,1,3,7984,7984,Card,Website,Solo,4.1,Cancelled,Low,Winter,51
+BK0173,CUS0173,Customer_173,Ocean View Resort,Chennai,Suite,2025-10-08,2025-10-13,5,2,7853,39265,UPI,Website,Couple,4.0,Completed,High,Winter,40
+BK0174,CUS0174,Customer_174,Royal Stay,Hyderabad,Deluxe,2025-10-22,2025-10-27,5,4,5423,27115,Card,Booking App,Business,4.9,Cancelled,Medium,Monsoon,64
+BK0175,CUS0175,Customer_175,Royal Stay,Mumbai,Double,2025-01-15,2025-01-21,6,2,14103,84618,Cash,Website,Solo,4.1,Completed,High,Winter,24
+BK0176,CUS0176,Customer_176,Royal Stay,Mumbai,Double,2025-09-02,2025-09-05,3,1,13054,39162,Card,Booking App,Family,3.1,Cancelled,Low,Winter,32
+BK0177,CUS0177,Customer_177,City Inn,Bangalore,Single,2025-03-06,2025-03-15,9,1,3108,27972,Card,Travel Agent,Family,4.4,Cancelled,High,Monsoon,30
+BK0178,CUS0178,Customer_178,City Inn,Delhi,Single,2025-10-24,2025-10-27,3,4,8980,26940,Online,Website,Family,3.6,Pending,High,Winter,26
+BK0179,CUS0179,Customer_179,Royal Stay,Delhi,Suite,2025-08-30,2025-09-03,4,1,9000,36000,UPI,Website,Business,3.8,Cancelled,Medium,Winter,34
+BK0180,CUS0180,Customer_180,Grand Palace Hotel,Bangalore,Deluxe,2025-12-10,2025-12-20,10,4,7017,70170,Online,Website,Business,4.8,Pending,Medium,Monsoon,57
+BK0181,CUS0181,Customer_181,Royal Stay,Hyderabad,Suite,2025-09-28,2025-10-01,3,5,7241,21723,Cash,Website,Family,4.7,Pending,Low,Monsoon,22
+BK0182,CUS0182,Customer_182,Royal Stay,Delhi,Single,2025-02-27,2025-03-02,3,3,2941,8823,Online,Booking App,Family,3.3,Completed,Low,Monsoon,47
+BK0183,CUS0183,Customer_183,Green Park Hotel,Hyderabad,Single,2025-06-02,2025-06-11,9,1,14005,126045,Online,Website,Couple,5.0,Pending,High,Winter,41
+BK0184,CUS0184,Customer_184,Ocean View Resort,Hyderabad,Deluxe,2025-11-06,2025-11-11,5,4,6819,34095,Online,Travel Agent,Business,3.9,Pending,Medium,Summer,37
+BK0185,CUS0185,Customer_185,City Inn,Mumbai,Double,2025-11-20,2025-11-22,2,4,13649,27298,UPI,Booking App,Business,3.8,Pending,Low,Winter,23
+BK0186,CUS0186,Customer_186,Green Park Hotel,Bangalore,Suite,2025-12-12,2025-12-22,10,4,7052,70520,UPI,Travel Agent,Family,3.7,Pending,Low,Winter,51
+BK0187,CUS0187,Customer_187,Grand Palace Hotel,Hyderabad,Suite,2025-12-30,2026-01-01,2,5,13436,26872,Cash,Travel Agent,Couple,3.0,Completed,Low,Monsoon,48
+BK0188,CUS0188,Customer_188,Ocean View Resort,Hyderabad,Suite,2025-01-14,2025-01-22,8,4,4692,37536,Online,Booking App,Family,4.9,Completed,Medium,Winter,33
+BK0189,CUS0189,Customer_189,Green Park Hotel,Mumbai,Deluxe,2025-03-01,2025-03-08,7,5,14557,101899,Cash,Travel Agent,Solo,4.1,Completed,Low,Summer,21
+BK0190,CUS0190,Customer_190,Royal Stay,Chennai,Double,2025-01-27,2025-01-31,4,1,11288,45152,Card,Travel Agent,Couple,3.9,Completed,Medium,Monsoon,31
+BK0191,CUS0191,Customer_191,Ocean View Resort,Mumbai,Double,2025-06-19,2025-06-22,3,5,9904,29712,UPI,Booking App,Couple,4.9,Cancelled,High,Winter,29
+BK0192,CUS0192,Customer_192,Ocean View Resort,Hyderabad,Suite,2025-05-28,2025-05-29,1,1,12773,12773,Card,Website,Couple,3.4,Pending,High,Monsoon,64
+BK0193,CUS0193,Customer_193,Green Park Hotel,Delhi,Suite,2025-07-28,2025-08-05,8,1,4347,34776,UPI,Booking App,Family,3.5,Pending,Medium,Monsoon,59
+BK0194,CUS0194,Customer_194,Royal Stay,Chennai,Deluxe,2025-12-17,2025-12-27,10,4,3641,36410,Card,Travel Agent,Couple,4.5,Completed,High,Summer,56
+BK0195,CUS0195,Customer_195,Green Park Hotel,Hyderabad,Suite,2025-03-27,2025-04-05,9,4,12885,115965,Card,Website,Solo,3.6,Pending,Medium,Summer,45
+BK0196,CUS0196,Customer_196,Grand Palace Hotel,Chennai,Suite,2025-11-24,2025-12-01,7,5,2538,17766,Card,Booking App,Solo,4.4,Pending,Low,Monsoon,35
+BK0197,CUS0197,Customer_197,Green Park Hotel,Delhi,Suite,2025-01-01,2025-01-08,7,3,14538,101766,UPI,Website,Solo,3.6,Cancelled,Medium,Summer,39
+BK0198,CUS0198,Customer_198,Ocean View Resort,Mumbai,Double,2025-02-24,2025-03-02,6,4,9451,56706,Card,Travel Agent,Solo,3.4,Pending,Medium,Monsoon,20
+BK0199,CUS0199,Customer_199,Royal Stay,Bangalore,Double,2025-08-19,2025-08-29,10,5,5617,56170,Card,Booking App,Solo,4.4,Pending,Medium,Summer,40
+BK0200,CUS0200,Customer_200,Royal Stay,Bangalore,Suite,2025-09-27,2025-10-01,4,1,6215,24860,Cash,Booking App,Business,4.4,Pending,Low,Summer,32
+BK0201,CUS0201,Customer_201,City Inn,Chennai,Double,2025-06-22,2025-07-02,10,3,8400,84000,Online,Booking App,Business,4.7,Cancelled,Low,Winter,28
+BK0202,CUS0202,Customer_202,Green Park Hotel,Mumbai,Deluxe,2025-12-27,2025-12-31,4,1,7472,29888,Cash,Travel Agent,Solo,4.2,Cancelled,High,Winter,47
+BK0203,CUS0203,Customer_203,Grand Palace Hotel,Hyderabad,Suite,2025-11-02,2025-11-04,2,1,10306,20612,Cash,Booking App,Business,4.9,Pending,High,Winter,51
+BK0204,CUS0204,Customer_204,Grand Palace Hotel,Mumbai,Double,2025-10-19,2025-10-23,4,2,11021,44084,Card,Website,Business,4.2,Cancelled,Low,Summer,34
+BK0205,CUS0205,Customer_205,City Inn,Hyderabad,Deluxe,2025-01-06,2025-01-14,8,3,14118,112944,Online,Website,Solo,3.7,Cancelled,Medium,Summer,56
+BK0206,CUS0206,Customer_206,City Inn,Hyderabad,Suite,2025-12-31,2026-01-01,1,1,6916,6916,Card,Travel Agent,Business,3.2,Completed,High,Summer,58
+BK0207,CUS0207,Customer_207,City Inn,Delhi,Suite,2025-12-18,2025-12-24,6,1,5172,31032,Card,Travel Agent,Couple,3.5,Cancelled,High,Monsoon,49
+BK0208,CUS0208,Customer_208,Grand Palace Hotel,Hyderabad,Single,2025-01-10,2025-01-15,5,2,13803,69015,Card,Booking App,Family,4.7,Completed,Low,Monsoon,39
+BK0209,CUS0209,Customer_209,Grand Palace Hotel,Hyderabad,Single,2025-04-26,2025-04-28,2,3,14050,28100,Card,Website,Solo,3.2,Pending,Low,Summer,62
+BK0210,CUS0210,Customer_210,Grand Palace Hotel,Mumbai,Suite,2025-12-14,2025-12-23,9,1,8946,80514,UPI,Booking App,Solo,4.0,Pending,Medium,Monsoon,41
+BK0211,CUS0211,Customer_211,Ocean View Resort,Bangalore,Suite,2025-03-25,2025-03-26,1,4,14664,14664,Online,Travel Agent,Couple,3.2,Completed,Low,Monsoon,63
+BK0212,CUS0212,Customer_212,City Inn,Delhi,Deluxe,2025-03-22,2025-04-01,10,2,13625,136250,UPI,Travel Agent,Solo,4.5,Pending,High,Winter,29
+BK0213,CUS0213,Customer_213,Green Park Hotel,Delhi,Deluxe,2025-12-18,2025-12-24,6,5,13814,82884,Card,Booking App,Business,3.9,Completed,High,Winter,67
+BK0214,CUS0214,Customer_214,City Inn,Chennai,Double,2025-01-18,2025-01-20,2,4,14874,29748,Card,Booking App,Couple,5.0,Completed,High,Monsoon,34
+BK0215,CUS0215,Customer_215,Ocean View Resort,Mumbai,Deluxe,2025-01-17,2025-01-25,8,3,5033,40264,Online,Booking App,Family,3.8,Pending,High,Winter,55
+BK0216,CUS0216,Customer_216,City Inn,Chennai,Suite,2025-01-20,2025-01-27,7,1,6785,47495,Card,Booking App,Solo,3.4,Cancelled,Medium,Winter,33
+BK0217,CUS0217,Customer_217,Royal Stay,Hyderabad,Deluxe,2025-12-08,2025-12-14,6,3,13326,79956,Cash,Website,Family,4.6,Pending,Medium,Monsoon,36
+BK0218,CUS0218,Customer_218,Royal Stay,Hyderabad,Deluxe,2025-05-27,2025-05-30,3,1,8557,25671,Online,Booking App,Couple,3.2,Completed,High,Winter,62
+BK0219,CUS0219,Customer_219,City Inn,Delhi,Suite,2025-04-28,2025-05-03,5,5,12725,63625,Card,Travel Agent,Family,4.5,Cancelled,High,Monsoon,29
+BK0220,CUS0220,Customer_220,Royal Stay,Mumbai,Deluxe,2025-06-24,2025-06-27,3,3,14772,44316,UPI,Travel Agent,Solo,3.1,Completed,Medium,Summer,27
+BK0221,CUS0221,Customer_221,Green Park Hotel,Hyderabad,Double,2025-06-28,2025-06-30,2,4,7434,14868,Card,Website,Solo,4.7,Completed,High,Monsoon,55
+BK0222,CUS0222,Customer_222,City Inn,Chennai,Deluxe,2025-06-12,2025-06-16,4,5,4491,17964,Card,Website,Couple,4.9,Cancelled,Medium,Winter,61
+BK0223,CUS0223,Customer_223,City Inn,Chennai,Deluxe,2025-12-01,2025-12-05,4,1,4030,16120,Card,Travel Agent,Couple,4.5,Pending,Low,Summer,40
+BK0224,CUS0224,Customer_224,Green Park Hotel,Chennai,Double,2025-04-04,2025-04-05,1,1,2318,2318,Cash,Website,Family,3.1,Completed,Low,Monsoon,45
+BK0225,CUS0225,Customer_225,Royal Stay,Bangalore,Double,2025-07-28,2025-08-02,5,4,14463,72315,Card,Website,Business,3.4,Completed,High,Winter,57
+BK0226,CUS0226,Customer_226,City Inn,Hyderabad,Double,2025-01-14,2025-01-16,2,2,6371,12742,Cash,Website,Couple,4.7,Pending,High,Winter,27
+BK0227,CUS0227,Customer_227,Royal Stay,Mumbai,Single,2025-08-24,2025-08-29,5,5,8230,41150,Card,Booking App,Business,3.0,Completed,Medium,Monsoon,34
+BK0228,CUS0228,Customer_228,Green Park Hotel,Delhi,Suite,2025-12-17,2025-12-18,1,4,7040,7040,Card,Booking App,Business,4.2,Pending,High,Winter,29
+BK0229,CUS0229,Customer_229,Green Park Hotel,Chennai,Deluxe,2025-12-14,2025-12-17,3,2,3905,11715,Cash,Website,Solo,4.1,Completed,Medium,Summer,25
+BK0230,CUS0230,Customer_230,Grand Palace Hotel,Hyderabad,Single,2025-05-05,2025-05-06,1,5,4548,4548,Card,Website,Family,4.4,Cancelled,Low,Summer,22
+BK0231,CUS0231,Customer_231,City Inn,Hyderabad,Suite,2025-03-28,2025-04-01,4,4,12708,50832,Card,Booking App,Solo,3.8,Completed,High,Monsoon,54
+BK0232,CUS0232,Customer_232,Ocean View Resort,Delhi,Double,2025-03-17,2025-03-22,5,4,8759,43795,UPI,Travel Agent,Business,4.1,Pending,High,Summer,43
+BK0233,CUS0233,Customer_233,Green Park Hotel,Chennai,Suite,2025-07-19,2025-07-23,4,1,4491,17964,Cash,Booking App,Couple,3.1,Completed,Medium,Monsoon,37
+BK0234,CUS0234,Customer_234,Green Park Hotel,Bangalore,Double,2025-08-04,2025-08-08,4,5,4643,18572,Cash,Booking App,Family,3.9,Cancelled,High,Winter,44
+BK0235,CUS0235,Customer_235,Royal Stay,Bangalore,Suite,2025-10-30,2025-11-05,6,2,8144,48864,Card,Website,Family,4.8,Pending,Medium,Monsoon,64
+BK0236,CUS0236,Customer_236,Green Park Hotel,Hyderabad,Double,2025-10-18,2025-10-20,2,2,9260,18520,UPI,Website,Family,4.9,Completed,High,Summer,68
+BK0237,CUS0237,Customer_237,City Inn,Chennai,Suite,2025-12-23,2025-12-25,2,2,9635,19270,Cash,Booking App,Family,4.0,Pending,Medium,Winter,67
+BK0238,CUS0238,Customer_238,Ocean View Resort,Mumbai,Deluxe,2025-04-06,2025-04-14,8,4,3554,28432,Card,Booking App,Family,4.7,Completed,Low,Winter,39
+BK0239,CUS0239,Customer_239,Royal Stay,Bangalore,Suite,2025-02-02,2025-02-04,2,2,5967,11934,Card,Travel Agent,Business,3.7,Pending,Medium,Winter,68
+BK0240,CUS0240,Customer_240,Grand Palace Hotel,Mumbai,Suite,2025-02-19,2025-02-24,5,2,9200,46000,Cash,Booking App,Solo,3.6,Completed,Low,Winter,56
+BK0241,CUS0241,Customer_241,Green Park Hotel,Mumbai,Deluxe,2025-11-23,2025-11-28,5,1,11588,57940,Card,Travel Agent,Family,4.7,Completed,High,Monsoon,38
+BK0242,CUS0242,Customer_242,Green Park Hotel,Delhi,Deluxe,2025-08-17,2025-08-26,9,2,10408,93672,UPI,Booking App,Business,3.5,Cancelled,Medium,Summer,45
+BK0243,CUS0243,Customer_243,Ocean View Resort,Hyderabad,Single,2025-07-17,2025-07-20,3,5,7288,21864,Cash,Travel Agent,Couple,4.3,Pending,Medium,Summer,30
+BK0244,CUS0244,Customer_244,Green Park Hotel,Chennai,Deluxe,2025-03-01,2025-03-05,4,3,14424,57696,UPI,Travel Agent,Couple,4.2,Completed,High,Monsoon,36
+BK0245,CUS0245,Customer_245,Ocean View Resort,Delhi,Single,2025-02-02,2025-02-05,3,3,6848,20544,UPI,Travel Agent,Business,4.0,Cancelled,Low,Winter,35
+BK0246,CUS0246,Customer_246,Green Park Hotel,Bangalore,Deluxe,2025-03-19,2025-03-27,8,3,6535,52280,Card,Travel Agent,Family,4.9,Cancelled,Low,Winter,24
+BK0247,CUS0247,Customer_247,Grand Palace Hotel,Hyderabad,Deluxe,2025-03-27,2025-04-05,9,2,12561,113049,Card,Website,Family,3.8,Cancelled,High,Winter,41
+BK0248,CUS0248,Customer_248,City Inn,Chennai,Deluxe,2025-05-03,2025-05-06,3,2,7931,23793,Cash,Booking App,Family,4.2,Pending,High,Winter,52
+BK0249,CUS0249,Customer_249,Grand Palace Hotel,Chennai,Double,2025-03-16,2025-03-18,2,3,4197,8394,Cash,Booking App,Family,4.8,Completed,Low,Monsoon,47
+BK0250,CUS0250,Customer_250,City Inn,Bangalore,Suite,2025-07-04,2025-07-12,8,1,11515,92120,Card,Website,Business,4.3,Completed,Low,Winter,58
+BK0251,CUS0251,Customer_251,Green Park Hotel,Delhi,Single,2025-05-20,2025-05-21,1,2,11666,11666,Card,Website,Couple,4.7,Cancelled,Medium,Monsoon,32
+BK0252,CUS0252,Customer_252,Ocean View Resort,Chennai,Deluxe,2025-05-14,2025-05-21,7,4,4877,34139,UPI,Website,Family,3.6,Cancelled,High,Monsoon,67
+BK0253,CUS0253,Customer_253,City Inn,Hyderabad,Suite,2025-04-13,2025-04-15,2,3,13685,27370,UPI,Travel Agent,Couple,4.2,Cancelled,High,Winter,44
+BK0254,CUS0254,Customer_254,Royal Stay,Hyderabad,Double,2025-01-29,2025-02-03,5,2,9896,49480,Cash,Travel Agent,Solo,5.0,Pending,Low,Monsoon,32
+BK0255,CUS0255,Customer_255,Royal Stay,Chennai,Single,2025-09-10,2025-09-17,7,5,4556,31892,Card,Website,Family,4.5,Cancelled,High,Summer,70
+BK0256,CUS0256,Customer_256,City Inn,Chennai,Double,2025-08-23,2025-08-30,7,2,4506,31542,Card,Booking App,Couple,3.0,Cancelled,Medium,Monsoon,59
+BK0257,CUS0257,Customer_257,Green Park Hotel,Delhi,Double,2025-11-01,2025-11-10,9,1,10343,93087,Online,Website,Solo,3.0,Cancelled,Low,Monsoon,62
+BK0258,CUS0258,Customer_258,Royal Stay,Chennai,Suite,2025-05-19,2025-05-26,7,3,11281,78967,Online,Booking App,Business,3.5,Cancelled,Low,Summer,18
+BK0259,CUS0259,Customer_259,Green Park Hotel,Hyderabad,Suite,2025-01-21,2025-01-30,9,4,2130,19170,Online,Website,Solo,3.8,Cancelled,Medium,Winter,27
+BK0260,CUS0260,Customer_260,Green Park Hotel,Mumbai,Double,2025-02-12,2025-02-21,9,5,11763,105867,UPI,Travel Agent,Couple,3.4,Pending,Medium,Monsoon,59
+BK0261,CUS0261,Customer_261,Royal Stay,Bangalore,Single,2025-12-02,2025-12-04,2,2,13593,27186,Card,Booking App,Family,4.2,Cancelled,Low,Monsoon,22
+BK0262,CUS0262,Customer_262,Grand Palace Hotel,Mumbai,Double,2025-07-01,2025-07-08,7,1,5900,41300,Card,Website,Family,4.4,Cancelled,Medium,Summer,20
+BK0263,CUS0263,Customer_263,Ocean View Resort,Bangalore,Deluxe,2025-09-20,2025-09-27,7,4,14650,102550,UPI,Travel Agent,Business,3.0,Pending,High,Monsoon,65
+BK0264,CUS0264,Customer_264,Ocean View Resort,Mumbai,Double,2025-04-11,2025-04-20,9,3,5707,51363,Card,Travel Agent,Couple,4.8,Completed,High,Winter,46
+BK0265,CUS0265,Customer_265,City Inn,Mumbai,Single,2025-04-14,2025-04-20,6,1,4026,24156,Cash,Booking App,Business,4.7,Completed,Low,Winter,26
+BK0266,CUS0266,Customer_266,Grand Palace Hotel,Bangalore,Double,2025-08-31,2025-09-09,9,4,14523,130707,UPI,Booking App,Solo,3.6,Pending,Low,Winter,35
+BK0267,CUS0267,Customer_267,Green Park Hotel,Mumbai,Deluxe,2025-03-18,2025-03-23,5,3,6503,32515,Cash,Travel Agent,Couple,4.7,Cancelled,Medium,Monsoon,34
+BK0268,CUS0268,Customer_268,Royal Stay,Bangalore,Deluxe,2025-11-05,2025-11-09,4,2,5775,23100,Cash,Travel Agent,Couple,3.9,Completed,High,Monsoon,31
+BK0269,CUS0269,Customer_269,Green Park Hotel,Chennai,Single,2025-06-18,2025-06-22,4,3,5247,20988,Online,Travel Agent,Solo,4.1,Completed,High,Summer,35
+BK0270,CUS0270,Customer_270,Grand Palace Hotel,Delhi,Single,2025-04-21,2025-04-23,2,4,6370,12740,Online,Booking App,Solo,4.2,Completed,High,Winter,38
+BK0271,CUS0271,Customer_271,Royal Stay,Mumbai,Suite,2025-11-20,2025-11-29,9,2,14783,133047,Cash,Website,Couple,3.3,Cancelled,Low,Winter,57
+BK0272,CUS0272,Customer_272,Ocean View Resort,Delhi,Deluxe,2025-10-08,2025-10-18,10,1,13218,132180,Card,Travel Agent,Business,3.9,Completed,Medium,Monsoon,30
+BK0273,CUS0273,Customer_273,Grand Palace Hotel,Chennai,Deluxe,2025-06-29,2025-07-03,4,5,10630,42520,UPI,Travel Agent,Couple,3.1,Cancelled,High,Winter,26
+BK0274,CUS0274,Customer_274,Ocean View Resort,Hyderabad,Suite,2025-10-09,2025-10-17,8,2,5690,45520,Online,Booking App,Business,3.5,Pending,High,Summer,54
+BK0275,CUS0275,Customer_275,Green Park Hotel,Hyderabad,Single,2025-08-19,2025-08-26,7,3,11953,83671,Online,Website,Business,4.1,Completed,High,Monsoon,52
+BK0276,CUS0276,Customer_276,City Inn,Delhi,Double,2025-06-19,2025-06-27,8,5,6678,53424,Cash,Travel Agent,Solo,5.0,Completed,High,Winter,22
+BK0277,CUS0277,Customer_277,City Inn,Bangalore,Suite,2025-02-06,2025-02-16,10,2,4475,44750,Card,Website,Family,3.0,Cancelled,Medium,Summer,56
+BK0278,CUS0278,Customer_278,Royal Stay,Hyderabad,Single,2025-11-17,2025-11-26,9,1,11519,103671,UPI,Travel Agent,Family,4.4,Pending,Medium,Winter,44
+BK0279,CUS0279,Customer_279,Grand Palace Hotel,Chennai,Single,2025-07-25,2025-07-31,6,4,5623,33738,Online,Booking App,Business,5.0,Cancelled,High,Monsoon,60
+BK0280,CUS0280,Customer_280,Green Park Hotel,Chennai,Double,2025-09-18,2025-09-23,5,3,12869,64345,Cash,Website,Business,4.5,Pending,Low,Winter,65
+BK0281,CUS0281,Customer_281,Green Park Hotel,Hyderabad,Single,2025-05-06,2025-05-11,5,5,7164,35820,Card,Travel Agent,Family,3.6,Completed,High,Summer,64
+BK0282,CUS0282,Customer_282,Ocean View Resort,Bangalore,Deluxe,2025-08-09,2025-08-10,1,3,12278,12278,UPI,Travel Agent,Solo,3.2,Pending,Medium,Monsoon,57
+BK0283,CUS0283,Customer_283,City Inn,Delhi,Double,2025-05-16,2025-05-23,7,3,9756,68292,UPI,Travel Agent,Solo,4.5,Completed,High,Winter,69
+BK0284,CUS0284,Customer_284,City Inn,Mumbai,Deluxe,2025-04-05,2025-04-14,9,3,13608,122472,UPI,Website,Couple,3.2,Completed,Medium,Monsoon,42
+BK0285,CUS0285,Customer_285,Ocean View Resort,Chennai,Double,2025-10-28,2025-11-03,6,1,9550,57300,UPI,Website,Family,4.5,Pending,Low,Monsoon,61
+BK0286,CUS0286,Customer_286,Grand Palace Hotel,Hyderabad,Suite,2025-02-16,2025-02-22,6,4,6419,38514,UPI,Website,Business,3.5,Completed,Low,Winter,51
+BK0287,CUS0287,Customer_287,Grand Palace Hotel,Mumbai,Deluxe,2025-03-29,2025-04-08,10,4,4736,47360,UPI,Booking App,Business,4.4,Pending,Low,Monsoon,39
+BK0288,CUS0288,Customer_288,City Inn,Mumbai,Deluxe,2025-01-18,2025-01-21,3,2,8616,25848,Cash,Travel Agent,Couple,3.6,Cancelled,High,Monsoon,65
+BK0289,CUS0289,Customer_289,Royal Stay,Delhi,Deluxe,2025-08-11,2025-08-13,2,5,4981,9962,Online,Booking App,Family,4.5,Pending,Medium,Winter,26
+BK0290,CUS0290,Customer_290,Royal Stay,Chennai,Deluxe,2025-06-16,2025-06-19,3,5,9786,29358,Card,Travel Agent,Solo,3.5,Cancelled,Low,Summer,53
+BK0291,CUS0291,Customer_291,Royal Stay,Chennai,Double,2025-04-13,2025-04-15,2,5,10217,20434,Cash,Website,Business,4.1,Cancelled,Medium,Summer,26
+BK0292,CUS0292,Customer_292,Grand Palace Hotel,Hyderabad,Suite,2025-08-18,2025-08-26,8,5,6452,51616,UPI,Website,Solo,4.6,Pending,Medium,Monsoon,38
+BK0293,CUS0293,Customer_293,Green Park Hotel,Bangalore,Double,2025-10-06,2025-10-09,3,3,10225,30675,Cash,Booking App,Solo,3.6,Cancelled,Low,Winter,57
+BK0294,CUS0294,Customer_294,City Inn,Chennai,Double,2025-03-31,2025-04-03,3,5,8438,25314,Online,Booking App,Family,4.3,Cancelled,High,Monsoon,23
+BK0295,CUS0295,Customer_295,Royal Stay,Mumbai,Deluxe,2025-06-05,2025-06-13,8,4,3362,26896,Card,Website,Business,3.6,Pending,Medium,Monsoon,59
+BK0296,CUS0296,Customer_296,City Inn,Hyderabad,Double,2025-07-24,2025-08-03,10,5,5986,59860,Online,Website,Family,4.9,Pending,Medium,Winter,46
+BK0297,CUS0297,Customer_297,Royal Stay,Delhi,Deluxe,2025-04-06,2025-04-11,5,4,9666,48330,Cash,Booking App,Solo,4.9,Pending,High,Summer,24
+BK0298,CUS0298,Customer_298,Royal Stay,Chennai,Deluxe,2025-01-15,2025-01-21,6,5,5241,31446,UPI,Travel Agent,Couple,4.7,Completed,Medium,Winter,46
+BK0299,CUS0299,Customer_299,Green Park Hotel,Mumbai,Deluxe,2025-10-27,2025-11-02,6,2,10639,63834,Cash,Website,Business,3.5,Completed,High,Monsoon,39
+BK0300,CUS0300,Customer_300,Grand Palace Hotel,Hyderabad,Suite,2025-05-17,2025-05-25,8,4,3111,24888,Card,Booking App,Couple,4.1,Pending,High,Monsoon,18
+BK0301,CUS0301,Customer_301,Ocean View Resort,Hyderabad,Deluxe,2025-12-29,2026-01-06,8,5,9080,72640,UPI,Travel Agent,Family,3.0,Completed,Low,Winter,29
+BK0302,CUS0302,Customer_302,Ocean View Resort,Chennai,Suite,2025-05-26,2025-05-30,4,4,8897,35588,UPI,Website,Family,3.9,Pending,Medium,Monsoon,42
+BK0303,CUS0303,Customer_303,City Inn,Hyderabad,Double,2025-10-18,2025-10-23,5,3,6304,31520,Online,Travel Agent,Solo,3.1,Completed,High,Summer,45
+BK0304,CUS0304,Customer_304,City Inn,Bangalore,Double,2025-07-25,2025-07-30,5,4,7660,38300,UPI,Travel Agent,Couple,3.1,Completed,High,Summer,54
+BK0305,CUS0305,Customer_305,Grand Palace Hotel,Bangalore,Suite,2025-07-16,2025-07-19,3,5,10843,32529,Online,Booking App,Business,3.1,Cancelled,High,Summer,34
+BK0306,CUS0306,Customer_306,Green Park Hotel,Chennai,Single,2025-09-05,2025-09-10,5,3,2111,10555,UPI,Travel Agent,Family,3.2,Pending,Low,Summer,55
+BK0307,CUS0307,Customer_307,Ocean View Resort,Hyderabad,Single,2025-07-29,2025-07-30,1,4,4539,4539,Card,Travel Agent,Business,4.2,Pending,Low,Summer,50
+BK0308,CUS0308,Customer_308,Green Park Hotel,Delhi,Suite,2025-12-06,2025-12-08,2,4,2420,4840,Card,Travel Agent,Solo,3.6,Pending,Low,Summer,28
+BK0309,CUS0309,Customer_309,Ocean View Resort,Mumbai,Suite,2025-02-12,2025-02-22,10,5,5010,50100,Online,Website,Solo,3.1,Cancelled,Medium,Monsoon,54
+BK0310,CUS0310,Customer_310,City Inn,Chennai,Double,2025-03-24,2025-03-30,6,2,8358,50148,UPI,Website,Family,4.2,Pending,Medium,Winter,67
+BK0311,CUS0311,Customer_311,Royal Stay,Delhi,Suite,2025-04-19,2025-04-20,1,2,5573,5573,Online,Website,Business,3.7,Cancelled,Low,Winter,54
+BK0312,CUS0312,Customer_312,Green Park Hotel,Bangalore,Suite,2025-01-27,2025-02-03,7,1,5118,35826,Online,Travel Agent,Family,4.9,Pending,High,Monsoon,36
+BK0313,CUS0313,Customer_313,City Inn,Chennai,Deluxe,2025-08-07,2025-08-15,8,4,8863,70904,Card,Travel Agent,Solo,3.4,Cancelled,High,Summer,58
+BK0314,CUS0314,Customer_314,City Inn,Chennai,Single,2025-07-17,2025-07-20,3,5,4196,12588,Cash,Website,Family,4.0,Cancelled,High,Monsoon,25
+BK0315,CUS0315,Customer_315,Green Park Hotel,Hyderabad,Single,2025-08-07,2025-08-15,8,1,9092,72736,UPI,Booking App,Business,4.2,Pending,Low,Monsoon,57
+BK0316,CUS0316,Customer_316,Royal Stay,Mumbai,Single,2025-08-19,2025-08-28,9,5,12151,109359,Card,Travel Agent,Couple,3.5,Cancelled,Medium,Summer,70
+BK0317,CUS0317,Customer_317,Grand Palace Hotel,Mumbai,Deluxe,2025-10-04,2025-10-05,1,5,5407,5407,Online,Travel Agent,Solo,5.0,Cancelled,High,Monsoon,47
+BK0318,CUS0318,Customer_318,Grand Palace Hotel,Chennai,Single,2025-07-23,2025-07-26,3,4,14176,42528,Cash,Booking App,Family,3.6,Pending,High,Monsoon,43
+BK0319,CUS0319,Customer_319,Green Park Hotel,Hyderabad,Suite,2025-09-20,2025-09-23,3,5,14708,44124,Cash,Travel Agent,Couple,4.5,Pending,High,Winter,48
+BK0320,CUS0320,Customer_320,City Inn,Mumbai,Single,2025-04-01,2025-04-11,10,3,8081,80810,Cash,Website,Business,4.0,Completed,Low,Monsoon,23
+BK0321,CUS0321,Customer_321,City Inn,Delhi,Single,2025-08-29,2025-09-08,10,5,10991,109910,Card,Travel Agent,Family,3.7,Pending,Low,Summer,36
+BK0322,CUS0322,Customer_322,City Inn,Bangalore,Deluxe,2025-08-17,2025-08-26,9,2,8900,80100,Card,Booking App,Business,4.9,Completed,High,Monsoon,52
+BK0323,CUS0323,Customer_323,City Inn,Chennai,Double,2025-03-22,2025-03-25,3,1,5597,16791,Cash,Travel Agent,Family,4.6,Pending,High,Summer,54
+BK0324,CUS0324,Customer_324,Grand Palace Hotel,Mumbai,Double,2025-08-13,2025-08-18,5,3,5215,26075,Online,Travel Agent,Family,4.8,Pending,Low,Winter,32
+BK0325,CUS0325,Customer_325,Grand Palace Hotel,Delhi,Single,2025-05-24,2025-05-31,7,1,13977,97839,Card,Booking App,Solo,3.1,Pending,Medium,Monsoon,34
+BK0326,CUS0326,Customer_326,Ocean View Resort,Bangalore,Double,2025-11-01,2025-11-09,8,2,10956,87648,Card,Booking App,Couple,4.6,Cancelled,Low,Summer,56
+BK0327,CUS0327,Customer_327,Royal Stay,Hyderabad,Suite,2025-09-25,2025-09-29,4,1,4036,16144,UPI,Website,Family,4.7,Cancelled,Medium,Monsoon,67
+BK0328,CUS0328,Customer_328,Green Park Hotel,Delhi,Single,2025-05-10,2025-05-14,4,3,11297,45188,Cash,Travel Agent,Business,4.5,Completed,Medium,Monsoon,34
+BK0329,CUS0329,Customer_329,Ocean View Resort,Chennai,Suite,2025-05-29,2025-06-04,6,3,8981,53886,UPI,Booking App,Couple,3.2,Completed,Medium,Summer,31
+BK0330,CUS0330,Customer_330,Green Park Hotel,Hyderabad,Double,2025-01-07,2025-01-08,1,5,13032,13032,Online,Travel Agent,Solo,4.5,Cancelled,Low,Winter,35
+BK0331,CUS0331,Customer_331,City Inn,Bangalore,Single,2025-08-24,2025-09-02,9,4,6141,55269,Card,Website,Business,3.6,Completed,Low,Winter,46
+BK0332,CUS0332,Customer_332,Grand Palace Hotel,Chennai,Double,2025-10-08,2025-10-10,2,2,12476,24952,Online,Booking App,Couple,3.1,Pending,Medium,Summer,70
+BK0333,CUS0333,Customer_333,Royal Stay,Delhi,Suite,2025-08-25,2025-09-02,8,3,12881,103048,Card,Booking App,Business,3.8,Pending,Medium,Summer,62
+BK0334,CUS0334,Customer_334,Royal Stay,Mumbai,Deluxe,2025-06-29,2025-07-09,10,3,8370,83700,UPI,Travel Agent,Family,3.1,Cancelled,Medium,Summer,47
+BK0335,CUS0335,Customer_335,City Inn,Delhi,Double,2025-04-15,2025-04-16,1,2,7629,7629,Card,Booking App,Solo,3.9,Pending,Low,Summer,18
+BK0336,CUS0336,Customer_336,Ocean View Resort,Hyderabad,Deluxe,2025-09-20,2025-09-22,2,1,12876,25752,Cash,Booking App,Solo,4.6,Completed,High,Summer,61
+BK0337,CUS0337,Customer_337,City Inn,Bangalore,Double,2025-05-10,2025-05-17,7,3,8588,60116,Cash,Website,Solo,3.7,Completed,Medium,Summer,68
+BK0338,CUS0338,Customer_338,Ocean View Resort,Mumbai,Deluxe,2025-06-24,2025-07-02,8,2,11069,88552,Card,Website,Couple,4.0,Completed,Low,Monsoon,42
+BK0339,CUS0339,Customer_339,Ocean View Resort,Hyderabad,Suite,2025-05-14,2025-05-21,7,3,8862,62034,Online,Website,Solo,4.0,Pending,Medium,Winter,35
+BK0340,CUS0340,Customer_340,Green Park Hotel,Chennai,Suite,2025-06-24,2025-06-30,6,2,7287,43722,Card,Travel Agent,Couple,4.9,Cancelled,High,Monsoon,35
+BK0341,CUS0341,Customer_341,Green Park Hotel,Chennai,Double,2025-10-22,2025-10-31,9,2,7986,71874,Card,Booking App,Family,3.5,Pending,Low,Winter,24
+BK0342,CUS0342,Customer_342,Ocean View Resort,Delhi,Double,2025-08-28,2025-09-03,6,4,2303,13818,Cash,Booking App,Couple,4.1,Cancelled,High,Winter,69
+BK0343,CUS0343,Customer_343,Royal Stay,Hyderabad,Suite,2025-10-30,2025-11-04,5,5,4666,23330,Cash,Booking App,Couple,5.0,Cancelled,Low,Monsoon,61
+BK0344,CUS0344,Customer_344,Grand Palace Hotel,Bangalore,Deluxe,2025-08-21,2025-08-26,5,5,5514,27570,UPI,Travel Agent,Couple,4.2,Completed,High,Summer,55
+BK0345,CUS0345,Customer_345,Green Park Hotel,Bangalore,Single,2025-10-21,2025-10-29,8,5,13455,107640,Card,Website,Couple,3.5,Cancelled,Medium,Monsoon,68
+BK0346,CUS0346,Customer_346,Ocean View Resort,Hyderabad,Deluxe,2025-09-03,2025-09-04,1,3,6290,6290,UPI,Booking App,Business,4.6,Cancelled,Low,Winter,41
+BK0347,CUS0347,Customer_347,Ocean View Resort,Chennai,Suite,2025-12-15,2025-12-21,6,1,4309,25854,Online,Booking App,Solo,3.9,Pending,Low,Winter,35
+BK0348,CUS0348,Customer_348,Green Park Hotel,Hyderabad,Double,2025-12-23,2025-12-24,1,3,13717,13717,UPI,Travel Agent,Business,3.1,Pending,High,Winter,32
+BK0349,CUS0349,Customer_349,City Inn,Chennai,Single,2025-11-24,2025-11-28,4,1,6873,27492,Cash,Travel Agent,Solo,4.2,Pending,High,Winter,48
+BK0350,CUS0350,Customer_350,City Inn,Hyderabad,Deluxe,2025-04-05,2025-04-14,9,4,9061,81549,Card,Booking App,Business,4.3,Completed,High,Winter,59
+BK0351,CUS0351,Customer_351,Green Park Hotel,Delhi,Suite,2025-09-03,2025-09-06,3,3,4225,12675,Card,Website,Solo,5.0,Cancelled,High,Summer,25
+BK0352,CUS0352,Customer_352,Grand Palace Hotel,Mumbai,Deluxe,2025-07-17,2025-07-23,6,4,5684,34104,Cash,Travel Agent,Family,3.3,Pending,Medium,Monsoon,42
+BK0353,CUS0353,Customer_353,Grand Palace Hotel,Chennai,Suite,2025-10-07,2025-10-13,6,2,8064,48384,UPI,Booking App,Couple,3.0,Cancelled,High,Monsoon,48
+BK0354,CUS0354,Customer_354,City Inn,Chennai,Suite,2025-10-19,2025-10-28,9,4,8359,75231,Online,Booking App,Solo,3.6,Cancelled,Low,Summer,19
+BK0355,CUS0355,Customer_355,Green Park Hotel,Bangalore,Double,2025-02-22,2025-02-25,3,3,9649,28947,Card,Travel Agent,Business,4.3,Pending,Low,Monsoon,29
+BK0356,CUS0356,Customer_356,City Inn,Bangalore,Single,2025-03-15,2025-03-20,5,1,6217,31085,Card,Travel Agent,Family,4.2,Completed,Low,Monsoon,19
+BK0357,CUS0357,Customer_357,Grand Palace Hotel,Hyderabad,Double,2025-10-29,2025-10-31,2,4,14020,28040,Online,Booking App,Business,3.2,Completed,Medium,Winter,53
+BK0358,CUS0358,Customer_358,Ocean View Resort,Chennai,Suite,2025-07-22,2025-07-30,8,4,2170,17360,Card,Travel Agent,Family,4.2,Cancelled,Low,Summer,36
+BK0359,CUS0359,Customer_359,Green Park Hotel,Delhi,Single,2025-08-16,2025-08-19,3,3,13200,39600,UPI,Booking App,Couple,4.3,Cancelled,High,Winter,45
+BK0360,CUS0360,Customer_360,City Inn,Hyderabad,Single,2025-06-07,2025-06-11,4,5,5848,23392,Card,Booking App,Solo,3.4,Cancelled,Medium,Winter,27
+BK0361,CUS0361,Customer_361,Ocean View Resort,Chennai,Suite,2025-01-07,2025-01-17,10,1,4682,46820,Cash,Travel Agent,Family,4.0,Completed,Medium,Winter,70
+BK0362,CUS0362,Customer_362,Grand Palace Hotel,Chennai,Suite,2025-10-02,2025-10-08,6,1,12417,74502,Online,Travel Agent,Business,4.0,Pending,Medium,Monsoon,67
+BK0363,CUS0363,Customer_363,Grand Palace Hotel,Bangalore,Single,2025-10-05,2025-10-09,4,3,10196,40784,Cash,Booking App,Business,3.5,Pending,High,Monsoon,21
+BK0364,CUS0364,Customer_364,Royal Stay,Chennai,Suite,2025-12-01,2025-12-04,3,3,3930,11790,Online,Booking App,Business,3.7,Pending,Low,Summer,48
+BK0365,CUS0365,Customer_365,City Inn,Bangalore,Deluxe,2025-11-22,2025-11-30,8,1,13809,110472,Online,Booking App,Couple,4.7,Completed,Medium,Winter,52
+BK0366,CUS0366,Customer_366,City Inn,Hyderabad,Single,2025-04-02,2025-04-03,1,3,4149,4149,Online,Website,Family,3.9,Pending,Low,Summer,65
+BK0367,CUS0367,Customer_367,Green Park Hotel,Hyderabad,Single,2025-04-27,2025-04-30,3,5,5036,15108,UPI,Website,Solo,3.9,Pending,Low,Summer,61
+BK0368,CUS0368,Customer_368,Green Park Hotel,Chennai,Single,2025-09-22,2025-09-29,7,3,8174,57218,Cash,Website,Couple,4.3,Pending,Medium,Summer,49
+BK0369,CUS0369,Customer_369,Royal Stay,Bangalore,Deluxe,2025-06-29,2025-06-30,1,3,6160,6160,UPI,Website,Family,3.4,Completed,High,Monsoon,35
+BK0370,CUS0370,Customer_370,Ocean View Resort,Bangalore,Double,2025-01-14,2025-01-19,5,4,7567,37835,Cash,Booking App,Couple,3.4,Completed,Low,Monsoon,31
+BK0371,CUS0371,Customer_371,City Inn,Chennai,Single,2025-01-19,2025-01-23,4,3,9597,38388,Online,Booking App,Couple,4.6,Pending,Medium,Monsoon,64
+BK0372,CUS0372,Customer_372,Green Park Hotel,Bangalore,Suite,2025-09-26,2025-10-02,6,2,12180,73080,UPI,Website,Solo,3.2,Cancelled,High,Monsoon,23
+BK0373,CUS0373,Customer_373,Ocean View Resort,Delhi,Single,2025-03-26,2025-04-02,7,1,10974,76818,Cash,Website,Business,3.4,Completed,Medium,Monsoon,62
+BK0374,CUS0374,Customer_374,Green Park Hotel,Hyderabad,Double,2025-07-28,2025-08-05,8,3,2267,18136,Cash,Website,Family,4.4,Pending,Low,Summer,28
+BK0375,CUS0375,Customer_375,Royal Stay,Mumbai,Double,2025-07-19,2025-07-23,4,2,14323,57292,Card,Website,Family,3.4,Pending,Low,Monsoon,56
+BK0376,CUS0376,Customer_376,City Inn,Hyderabad,Suite,2025-03-31,2025-04-08,8,3,2567,20536,Online,Travel Agent,Solo,4.6,Completed,Low,Monsoon,55
+BK0377,CUS0377,Customer_377,Ocean View Resort,Chennai,Suite,2025-07-14,2025-07-20,6,3,10753,64518,Cash,Booking App,Business,3.5,Cancelled,High,Monsoon,55
+BK0378,CUS0378,Customer_378,Green Park Hotel,Delhi,Deluxe,2025-07-11,2025-07-17,6,4,6309,37854,Card,Website,Family,3.9,Cancelled,High,Monsoon,44
+BK0379,CUS0379,Customer_379,Ocean View Resort,Chennai,Single,2026-01-01,2026-01-05,4,2,11054,44216,UPI,Website,Couple,3.5,Completed,Low,Summer,52
+BK0380,CUS0380,Customer_380,Ocean View Resort,Bangalore,Deluxe,2025-04-20,2025-04-27,7,3,10277,71939,UPI,Travel Agent,Couple,4.6,Pending,High,Monsoon,64
+BK0381,CUS0381,Customer_381,Ocean View Resort,Chennai,Suite,2025-09-06,2025-09-08,2,1,2267,4534,UPI,Travel Agent,Solo,4.0,Cancelled,High,Monsoon,54
+BK0382,CUS0382,Customer_382,City Inn,Delhi,Suite,2025-06-30,2025-07-02,2,2,7309,14618,Card,Travel Agent,Business,3.5,Completed,Low,Monsoon,33
+BK0383,CUS0383,Customer_383,Ocean View Resort,Delhi,Suite,2025-09-02,2025-09-10,8,2,10517,84136,Cash,Booking App,Business,3.9,Pending,Medium,Summer,65
+BK0384,CUS0384,Customer_384,Royal Stay,Mumbai,Single,2025-02-23,2025-03-03,8,2,10190,81520,Online,Travel Agent,Family,4.1,Pending,Medium,Winter,33
+BK0385,CUS0385,Customer_385,Ocean View Resort,Delhi,Suite,2025-05-23,2025-05-24,1,3,5933,5933,Card,Travel Agent,Solo,3.5,Completed,High,Summer,45
+BK0386,CUS0386,Customer_386,Royal Stay,Bangalore,Single,2025-01-09,2025-01-16,7,3,4343,30401,UPI,Booking App,Solo,4.6,Cancelled,Low,Winter,35
+BK0387,CUS0387,Customer_387,City Inn,Bangalore,Deluxe,2025-09-12,2025-09-20,8,2,2373,18984,Card,Website,Solo,4.5,Completed,Medium,Summer,62
+BK0388,CUS0388,Customer_388,Ocean View Resort,Delhi,Deluxe,2025-01-17,2025-01-23,6,1,3603,21618,Online,Travel Agent,Couple,3.5,Cancelled,Medium,Summer,49
+BK0389,CUS0389,Customer_389,City Inn,Chennai,Suite,2025-06-25,2025-06-29,4,4,2248,8992,Card,Website,Solo,4.2,Cancelled,Low,Monsoon,61
+BK0390,CUS0390,Customer_390,Ocean View Resort,Chennai,Suite,2025-11-24,2025-12-04,10,2,2223,22230,Card,Travel Agent,Business,4.6,Cancelled,Medium,Winter,30
+BK0391,CUS0391,Customer_391,Green Park Hotel,Hyderabad,Suite,2025-09-09,2025-09-13,4,3,2848,11392,Cash,Website,Couple,4.8,Pending,Low,Summer,46
+BK0392,CUS0392,Customer_392,Grand Palace Hotel,Bangalore,Single,2025-12-09,2025-12-16,7,2,7997,55979,UPI,Website,Couple,4.2,Pending,Low,Winter,34
+BK0393,CUS0393,Customer_393,Ocean View Resort,Delhi,Single,2025-08-08,2025-08-18,10,4,14426,144260,Card,Travel Agent,Couple,4.2,Cancelled,Low,Summer,23
+BK0394,CUS0394,Customer_394,Grand Palace Hotel,Bangalore,Double,2025-07-08,2025-07-11,3,1,5477,16431,UPI,Website,Business,3.0,Completed,High,Summer,42
+BK0395,CUS0395,Customer_395,City Inn,Hyderabad,Double,2025-03-26,2025-04-05,10,3,6304,63040,UPI,Website,Business,4.1,Cancelled,Low,Summer,46
+BK0396,CUS0396,Customer_396,Ocean View Resort,Delhi,Single,2025-02-08,2025-02-15,7,3,7495,52465,UPI,Website,Family,4.9,Cancelled,High,Monsoon,22
+BK0397,CUS0397,Customer_397,Royal Stay,Hyderabad,Deluxe,2025-07-08,2025-07-15,7,5,8508,59556,Cash,Website,Business,3.2,Completed,Low,Winter,68
+BK0398,CUS0398,Customer_398,Grand Palace Hotel,Mumbai,Single,2025-08-18,2025-08-28,10,5,3364,33640,Cash,Booking App,Couple,4.4,Completed,Medium,Summer,61
+BK0399,CUS0399,Customer_399,Ocean View Resort,Chennai,Single,2025-04-04,2025-04-07,3,4,2622,7866,UPI,Website,Business,4.9,Cancelled,Medium,Summer,20
+BK0400,CUS0400,Customer_400,City Inn,Hyderabad,Double,2025-10-17,2025-10-20,3,2,10806,32418,Card,Travel Agent,Family,4.1,Completed,Medium,Winter,40
+BK0401,CUS0401,Customer_401,Royal Stay,Bangalore,Deluxe,2025-11-21,2025-11-23,2,1,10614,21228,Online,Travel Agent,Business,4.0,Cancelled,High,Winter,42
+BK0402,CUS0402,Customer_402,Royal Stay,Mumbai,Deluxe,2025-12-25,2026-01-03,9,2,11136,100224,Card,Website,Business,4.4,Cancelled,Low,Summer,41
+BK0403,CUS0403,Customer_403,Royal Stay,Hyderabad,Single,2025-12-04,2025-12-05,1,4,5580,5580,Online,Website,Solo,5.0,Pending,Medium,Summer,66
+BK0404,CUS0404,Customer_404,Royal Stay,Delhi,Suite,2025-04-21,2025-04-22,1,3,11854,11854,Cash,Travel Agent,Business,4.1,Pending,Medium,Winter,66
+BK0405,CUS0405,Customer_405,City Inn,Hyderabad,Single,2025-04-16,2025-04-23,7,4,10370,72590,UPI,Website,Family,4.1,Cancelled,Low,Summer,51
+BK0406,CUS0406,Customer_406,City Inn,Chennai,Single,2025-10-29,2025-11-06,8,5,13355,106840,UPI,Booking App,Business,3.8,Cancelled,Medium,Winter,55
+BK0407,CUS0407,Customer_407,Grand Palace Hotel,Mumbai,Deluxe,2025-04-09,2025-04-11,2,1,4130,8260,Card,Booking App,Solo,3.2,Pending,High,Monsoon,35
+BK0408,CUS0408,Customer_408,Ocean View Resort,Delhi,Suite,2025-07-05,2025-07-13,8,2,13072,104576,Online,Travel Agent,Business,3.2,Cancelled,Low,Summer,65
+BK0409,CUS0409,Customer_409,City Inn,Chennai,Single,2025-03-12,2025-03-22,10,2,8579,85790,Card,Booking App,Family,4.8,Cancelled,Medium,Monsoon,40
+BK0410,CUS0410,Customer_410,Grand Palace Hotel,Chennai,Deluxe,2025-02-04,2025-02-09,5,3,4488,22440,Online,Booking App,Solo,4.2,Completed,Low,Monsoon,51
+BK0411,CUS0411,Customer_411,Royal Stay,Delhi,Deluxe,2025-01-02,2025-01-09,7,1,2411,16877,Cash,Booking App,Couple,3.6,Cancelled,Low,Summer,33
+BK0412,CUS0412,Customer_412,City Inn,Hyderabad,Deluxe,2025-02-13,2025-02-16,3,2,12377,37131,UPI,Travel Agent,Family,3.7,Pending,Low,Summer,70
+BK0413,CUS0413,Customer_413,Royal Stay,Delhi,Suite,2025-09-18,2025-09-24,6,2,10867,65202,Card,Travel Agent,Solo,4.6,Pending,Medium,Winter,37
+BK0414,CUS0414,Customer_414,Grand Palace Hotel,Bangalore,Double,2025-02-20,2025-02-28,8,4,4317,34536,UPI,Website,Business,4.4,Completed,Low,Monsoon,46
+BK0415,CUS0415,Customer_415,Grand Palace Hotel,Chennai,Deluxe,2025-05-14,2025-05-15,1,1,6667,6667,Card,Website,Couple,4.2,Completed,Low,Summer,64
+BK0416,CUS0416,Customer_416,Grand Palace Hotel,Delhi,Single,2025-06-23,2025-06-28,5,5,12031,60155,Cash,Booking App,Family,4.9,Cancelled,Medium,Winter,43
+BK0417,CUS0417,Customer_417,Royal Stay,Hyderabad,Double,2025-04-25,2025-05-02,7,1,14254,99778,UPI,Booking App,Solo,4.3,Completed,Medium,Summer,58
+BK0418,CUS0418,Customer_418,Grand Palace Hotel,Mumbai,Suite,2025-04-22,2025-04-30,8,1,5519,44152,Online,Website,Family,3.5,Cancelled,Low,Monsoon,18
+BK0419,CUS0419,Customer_419,Ocean View Resort,Bangalore,Suite,2025-09-02,2025-09-04,2,4,9716,19432,UPI,Website,Solo,4.8,Pending,High,Winter,56
+BK0420,CUS0420,Customer_420,Grand Palace Hotel,Hyderabad,Suite,2025-03-27,2025-03-28,1,4,10407,10407,Cash,Website,Family,4.2,Completed,Low,Monsoon,68
+BK0421,CUS0421,Customer_421,Grand Palace Hotel,Hyderabad,Suite,2025-10-09,2025-10-11,2,4,5379,10758,Card,Booking App,Family,4.1,Cancelled,Low,Summer,26
+BK0422,CUS0422,Customer_422,Ocean View Resort,Chennai,Double,2025-08-23,2025-08-30,7,4,8817,61719,Cash,Website,Solo,3.6,Completed,High,Winter,46
+BK0423,CUS0423,Customer_423,Ocean View Resort,Delhi,Deluxe,2025-04-07,2025-04-14,7,5,8348,58436,Cash,Booking App,Couple,3.8,Cancelled,High,Summer,55
+BK0424,CUS0424,Customer_424,City Inn,Bangalore,Single,2025-06-02,2025-06-04,2,5,7714,15428,Cash,Travel Agent,Solo,4.6,Pending,Low,Winter,51
+BK0425,CUS0425,Customer_425,Ocean View Resort,Delhi,Double,2025-05-23,2025-05-26,3,1,6364,19092,Online,Travel Agent,Solo,3.8,Cancelled,Low,Monsoon,31
+BK0426,CUS0426,Customer_426,Ocean View Resort,Bangalore,Deluxe,2025-09-12,2025-09-17,5,2,6695,33475,Card,Website,Family,3.0,Completed,High,Summer,45
+BK0427,CUS0427,Customer_427,Grand Palace Hotel,Delhi,Deluxe,2025-01-15,2025-01-23,8,5,8815,70520,Online,Website,Business,4.8,Pending,Medium,Summer,64
+BK0428,CUS0428,Customer_428,Green Park Hotel,Delhi,Single,2025-10-21,2025-10-30,9,5,11241,101169,UPI,Website,Family,3.8,Pending,High,Monsoon,40
+BK0429,CUS0429,Customer_429,Green Park Hotel,Delhi,Deluxe,2025-01-04,2025-01-12,8,2,11751,94008,Online,Website,Couple,4.3,Completed,Medium,Monsoon,31
+BK0430,CUS0430,Customer_430,Green Park Hotel,Bangalore,Deluxe,2025-02-11,2025-02-19,8,5,7725,61800,Cash,Website,Family,3.8,Pending,Low,Monsoon,53
+BK0431,CUS0431,Customer_431,City Inn,Chennai,Single,2025-01-22,2025-01-30,8,3,2251,18008,Card,Booking App,Family,4.6,Pending,Low,Summer,22
+BK0432,CUS0432,Customer_432,Ocean View Resort,Chennai,Double,2025-01-09,2025-01-15,6,3,10120,60720,Online,Website,Family,3.3,Completed,Low,Summer,70
+BK0433,CUS0433,Customer_433,Green Park Hotel,Delhi,Double,2025-03-09,2025-03-12,3,2,11453,34359,Cash,Travel Agent,Business,3.3,Cancelled,High,Winter,69
+BK0434,CUS0434,Customer_434,Grand Palace Hotel,Mumbai,Single,2025-01-25,2025-01-29,4,4,4617,18468,UPI,Website,Solo,4.9,Cancelled,High,Winter,28
+BK0435,CUS0435,Customer_435,Royal Stay,Bangalore,Deluxe,2025-02-19,2025-02-22,3,1,3837,11511,Online,Booking App,Business,3.4,Pending,High,Summer,56
+BK0436,CUS0436,Customer_436,Grand Palace Hotel,Chennai,Suite,2025-11-24,2025-11-25,1,4,4516,4516,Card,Travel Agent,Couple,3.1,Pending,Low,Winter,29
+BK0437,CUS0437,Customer_437,Royal Stay,Chennai,Deluxe,2025-11-27,2025-11-29,2,2,3114,6228,Online,Booking App,Couple,3.3,Completed,Low,Monsoon,37
+BK0438,CUS0438,Customer_438,Ocean View Resort,Mumbai,Single,2025-11-21,2025-11-29,8,1,12330,98640,Online,Website,Solo,4.8,Pending,High,Winter,70
+BK0439,CUS0439,Customer_439,City Inn,Hyderabad,Deluxe,2025-07-09,2025-07-17,8,5,7034,56272,Cash,Booking App,Family,4.6,Pending,High,Summer,66
+BK0440,CUS0440,Customer_440,Ocean View Resort,Bangalore,Single,2025-04-12,2025-04-16,4,4,5847,23388,Card,Travel Agent,Couple,3.0,Cancelled,Low,Summer,65
+BK0441,CUS0441,Customer_441,Grand Palace Hotel,Chennai,Double,2025-06-16,2025-06-20,4,1,2719,10876,Card,Website,Business,3.4,Pending,Medium,Winter,62
+BK0442,CUS0442,Customer_442,Grand Palace Hotel,Delhi,Suite,2025-09-10,2025-09-12,2,5,9384,18768,Card,Website,Couple,3.5,Completed,High,Winter,50
+BK0443,CUS0443,Customer_443,Grand Palace Hotel,Chennai,Deluxe,2025-08-19,2025-08-26,7,2,13235,92645,UPI,Travel Agent,Couple,3.2,Cancelled,Low,Monsoon,48
+BK0444,CUS0444,Customer_444,City Inn,Chennai,Suite,2025-05-18,2025-05-26,8,3,6307,50456,Online,Booking App,Couple,3.6,Completed,Low,Monsoon,66
+BK0445,CUS0445,Customer_445,Grand Palace Hotel,Mumbai,Suite,2025-03-23,2025-03-27,4,5,8374,33496,Card,Booking App,Couple,3.7,Pending,High,Winter,67
+BK0446,CUS0446,Customer_446,Grand Palace Hotel,Mumbai,Suite,2025-03-06,2025-03-15,9,2,13929,125361,Online,Website,Solo,3.2,Pending,Medium,Monsoon,41
+BK0447,CUS0447,Customer_447,Green Park Hotel,Chennai,Double,2025-12-18,2025-12-24,6,3,10976,65856,Cash,Website,Family,3.7,Pending,High,Summer,22
+BK0448,CUS0448,Customer_448,City Inn,Mumbai,Deluxe,2025-06-25,2025-06-27,2,5,10286,20572,Card,Travel Agent,Couple,3.5,Cancelled,Medium,Summer,39
+BK0449,CUS0449,Customer_449,Grand Palace Hotel,Hyderabad,Single,2025-04-08,2025-04-10,2,3,11369,22738,Card,Website,Family,3.5,Completed,Medium,Winter,28
+BK0450,CUS0450,Customer_450,Royal Stay,Mumbai,Suite,2025-05-19,2025-05-28,9,2,9622,86598,Card,Booking App,Family,3.1,Pending,High,Monsoon,53
+BK0451,CUS0451,Customer_451,City Inn,Hyderabad,Deluxe,2025-03-15,2025-03-16,1,4,9579,9579,Cash,Travel Agent,Solo,3.8,Pending,High,Winter,41
+BK0452,CUS0452,Customer_452,Grand Palace Hotel,Delhi,Double,2025-09-28,2025-09-30,2,3,12049,24098,Online,Website,Couple,3.4,Cancelled,High,Monsoon,34
+BK0453,CUS0453,Customer_453,Green Park Hotel,Hyderabad,Suite,2025-10-06,2025-10-15,9,4,12678,114102,UPI,Travel Agent,Business,4.3,Cancelled,Low,Monsoon,32
+BK0454,CUS0454,Customer_454,Green Park Hotel,Chennai,Double,2025-03-19,2025-03-26,7,3,5087,35609,Cash,Booking App,Couple,3.5,Completed,Low,Winter,61
+BK0455,CUS0455,Customer_455,Green Park Hotel,Chennai,Suite,2025-05-31,2025-06-04,4,3,14027,56108,Online,Booking App,Family,4.7,Pending,High,Summer,69
+BK0456,CUS0456,Customer_456,Ocean View Resort,Delhi,Deluxe,2025-05-11,2025-05-13,2,1,5417,10834,UPI,Booking App,Family,3.8,Cancelled,Low,Winter,41
+BK0457,CUS0457,Customer_457,City Inn,Mumbai,Single,2025-02-07,2025-02-17,10,4,14989,149890,Online,Website,Family,4.1,Cancelled,High,Monsoon,36
+BK0458,CUS0458,Customer_458,Grand Palace Hotel,Mumbai,Double,2025-08-18,2025-08-24,6,4,12281,73686,Card,Travel Agent,Couple,3.7,Pending,Medium,Monsoon,23
+BK0459,CUS0459,Customer_459,Ocean View Resort,Delhi,Single,2025-05-11,2025-05-19,8,3,13603,108824,Card,Booking App,Family,3.7,Completed,Medium,Monsoon,24
+BK0460,CUS0460,Customer_460,Royal Stay,Bangalore,Double,2025-03-06,2025-03-14,8,3,10093,80744,UPI,Travel Agent,Business,4.0,Cancelled,Medium,Summer,53
+BK0461,CUS0461,Customer_461,City Inn,Delhi,Single,2025-09-12,2025-09-16,4,5,4617,18468,Card,Website,Solo,4.2,Cancelled,Low,Winter,50
+BK0462,CUS0462,Customer_462,City Inn,Bangalore,Single,2025-12-05,2025-12-09,4,3,6425,25700,Card,Travel Agent,Solo,3.7,Completed,Low,Winter,55
+BK0463,CUS0463,Customer_463,Royal Stay,Bangalore,Suite,2025-11-05,2025-11-09,4,2,4594,18376,Online,Booking App,Couple,4.4,Completed,High,Monsoon,52
+BK0464,CUS0464,Customer_464,Royal Stay,Bangalore,Single,2025-02-02,2025-02-06,4,5,12622,50488,Online,Website,Couple,4.6,Pending,Low,Winter,54
+BK0465,CUS0465,Customer_465,City Inn,Mumbai,Deluxe,2025-04-20,2025-04-22,2,3,11405,22810,Card,Website,Business,3.6,Pending,High,Monsoon,22
+BK0466,CUS0466,Customer_466,Green Park Hotel,Bangalore,Single,2025-11-18,2025-11-27,9,3,13622,122598,Card,Website,Business,4.4,Pending,Medium,Monsoon,21
+BK0467,CUS0467,Customer_467,Grand Palace Hotel,Bangalore,Single,2025-11-13,2025-11-22,9,3,4885,43965,Card,Booking App,Family,4.1,Completed,Medium,Monsoon,20
+BK0468,CUS0468,Customer_468,Royal Stay,Hyderabad,Double,2025-09-29,2025-10-05,6,3,7243,43458,Card,Website,Family,3.1,Completed,Low,Winter,38
+BK0469,CUS0469,Customer_469,Royal Stay,Chennai,Double,2025-10-05,2025-10-10,5,4,4160,20800,Cash,Travel Agent,Family,4.1,Cancelled,High,Monsoon,53
+BK0470,CUS0470,Customer_470,Green Park Hotel,Mumbai,Deluxe,2025-11-11,2025-11-13,2,2,13473,26946,Cash,Travel Agent,Couple,3.4,Completed,Medium,Summer,50
+BK0471,CUS0471,Customer_471,City Inn,Delhi,Single,2025-01-21,2025-01-22,1,5,3609,3609,Card,Website,Family,3.7,Cancelled,Low,Winter,49
+BK0472,CUS0472,Customer_472,Royal Stay,Chennai,Deluxe,2025-04-06,2025-04-11,5,3,10621,53105,Card,Travel Agent,Solo,3.5,Pending,Medium,Summer,40
+BK0473,CUS0473,Customer_473,Grand Palace Hotel,Delhi,Single,2025-08-19,2025-08-21,2,2,14235,28470,Card,Travel Agent,Couple,3.7,Pending,Low,Monsoon,55
+BK0474,CUS0474,Customer_474,Green Park Hotel,Hyderabad,Double,2025-03-02,2025-03-10,8,3,12397,99176,Online,Travel Agent,Business,3.7,Completed,Medium,Winter,37
+BK0475,CUS0475,Customer_475,Ocean View Resort,Mumbai,Deluxe,2025-03-14,2025-03-20,6,4,12724,76344,Card,Booking App,Solo,4.6,Completed,Medium,Winter,22
+BK0476,CUS0476,Customer_476,Royal Stay,Hyderabad,Double,2025-03-06,2025-03-11,5,4,10483,52415,Cash,Travel Agent,Family,4.0,Completed,Low,Monsoon,57
+BK0477,CUS0477,Customer_477,Grand Palace Hotel,Bangalore,Single,2025-08-30,2025-09-07,8,5,6360,50880,UPI,Booking App,Couple,5.0,Cancelled,Medium,Summer,57
+BK0478,CUS0478,Customer_478,Royal Stay,Delhi,Deluxe,2025-07-31,2025-08-05,5,2,6965,34825,Card,Booking App,Family,3.6,Completed,Medium,Summer,42
+BK0479,CUS0479,Customer_479,Green Park Hotel,Mumbai,Double,2025-10-29,2025-11-02,4,4,4556,18224,Card,Website,Solo,4.3,Completed,High,Monsoon,69
+BK0480,CUS0480,Customer_480,Green Park Hotel,Hyderabad,Double,2025-10-08,2025-10-15,7,3,11199,78393,Online,Booking App,Business,4.3,Pending,Medium,Summer,39
+BK0481,CUS0481,Customer_481,Ocean View Resort,Hyderabad,Deluxe,2025-02-21,2025-03-03,10,5,11846,118460,Card,Website,Solo,3.4,Cancelled,High,Summer,31
+BK0482,CUS0482,Customer_482,Green Park Hotel,Chennai,Single,2025-02-26,2025-02-27,1,2,3437,3437,UPI,Booking App,Solo,4.2,Pending,Medium,Summer,45
+BK0483,CUS0483,Customer_483,Ocean View Resort,Bangalore,Double,2025-12-20,2025-12-29,9,2,6388,57492,UPI,Travel Agent,Family,4.5,Completed,High,Summer,23
+BK0484,CUS0484,Customer_484,Green Park Hotel,Mumbai,Single,2025-05-06,2025-05-15,9,1,11449,103041,Online,Website,Couple,3.6,Completed,Medium,Winter,60
+BK0485,CUS0485,Customer_485,Ocean View Resort,Hyderabad,Double,2025-11-24,2025-12-04,10,2,3317,33170,Cash,Booking App,Family,3.3,Pending,High,Winter,64
+BK0486,CUS0486,Customer_486,Ocean View Resort,Bangalore,Double,2025-08-19,2025-08-27,8,3,11636,93088,Card,Website,Solo,4.1,Completed,High,Summer,54
+BK0487,CUS0487,Customer_487,Ocean View Resort,Chennai,Double,2025-09-24,2025-09-28,4,1,14084,56336,Cash,Travel Agent,Couple,4.9,Cancelled,High,Summer,59
+BK0488,CUS0488,Customer_488,Green Park Hotel,Hyderabad,Deluxe,2025-06-13,2025-06-16,3,2,10503,31509,Cash,Booking App,Family,3.5,Pending,High,Monsoon,19
+BK0489,CUS0489,Customer_489,Green Park Hotel,Hyderabad,Deluxe,2025-07-06,2025-07-14,8,5,10683,85464,Cash,Travel Agent,Couple,3.5,Pending,Medium,Winter,28
+BK0490,CUS0490,Customer_490,Ocean View Resort,Hyderabad,Suite,2025-01-16,2025-01-19,3,1,7489,22467,Cash,Travel Agent,Solo,3.3,Pending,Low,Winter,48
+BK0491,CUS0491,Customer_491,Ocean View Resort,Hyderabad,Suite,2025-06-30,2025-07-10,10,5,9835,98350,Online,Website,Family,3.0,Cancelled,Medium,Summer,24
+BK0492,CUS0492,Customer_492,Grand Palace Hotel,Chennai,Deluxe,2025-11-23,2025-12-01,8,4,8595,68760,Online,Booking App,Family,4.3,Completed,Low,Winter,29
+BK0493,CUS0493,Customer_493,Ocean View Resort,Delhi,Single,2025-02-08,2025-02-16,8,5,6950,55600,UPI,Website,Solo,3.7,Pending,High,Summer,70
+BK0494,CUS0494,Customer_494,Green Park Hotel,Hyderabad,Suite,2025-01-02,2025-01-03,1,4,14152,14152,Online,Booking App,Solo,4.7,Cancelled,Medium,Winter,40
+BK0495,CUS0495,Customer_495,City Inn,Bangalore,Double,2025-02-02,2025-02-04,2,3,14637,29274,UPI,Travel Agent,Family,3.8,Pending,Medium,Winter,32
+BK0496,CUS0496,Customer_496,Ocean View Resort,Delhi,Double,2025-03-30,2025-04-06,7,4,5168,36176,Cash,Travel Agent,Solo,4.2,Cancelled,Low,Winter,52
+BK0497,CUS0497,Customer_497,Ocean View Resort,Chennai,Suite,2025-05-19,2025-05-22,3,2,6443,19329,Online,Travel Agent,Couple,4.6,Cancelled,Low,Winter,32
+BK0498,CUS0498,Customer_498,Green Park Hotel,Bangalore,Double,2025-04-21,2025-05-01,10,4,9960,99600,UPI,Travel Agent,Family,3.7,Pending,Low,Summer,33
+BK0499,CUS0499,Customer_499,City Inn,Chennai,Suite,2025-06-06,2025-06-15,9,4,8517,76653,Cash,Travel Agent,Solo,3.9,Completed,Medium,Monsoon,44
+BK0500,CUS0500,Customer_500,City Inn,Delhi,Suite,2025-01-26,2025-02-05,10,3,13170,131700,Online,Booking App,Couple,3.2,Cancelled,Medium,Winter,61
